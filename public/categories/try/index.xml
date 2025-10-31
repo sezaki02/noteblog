@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TRY on WTH</title>
-    <link>http://localhost:1313/categories/try/</link>
+    <link>https://wthnote.netlify.app/categories/try/</link>
     <description>Recent content in TRY on WTH</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 20 Feb 2024 12:40:29 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/try/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wthnote.netlify.app/categories/try/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iPhoneをiPodにする</title>
-      <link>http://localhost:1313/posts/ipod/</link>
+      <link>https://wthnote.netlify.app/posts/ipod/</link>
       <pubDate>Tue, 20 Feb 2024 12:40:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ipod/</guid>
+      <guid>https://wthnote.netlify.app/posts/ipod/</guid>
       <description>&lt;p&gt;インターネットを見ていたら面白い記事を発見しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPhoneの新機能・Journalを試してみた</title>
-      <link>http://localhost:1313/posts/journal/</link>
+      <link>https://wthnote.netlify.app/posts/journal/</link>
       <pubDate>Thu, 18 Jan 2024 15:52:42 +0900</pubDate>
-      <guid>http://localhost:1313/posts/journal/</guid>
+      <guid>https://wthnote.netlify.app/posts/journal/</guid>
       <description>&lt;p&gt;ジャーナルです。サービス開始から一ヶ月が経ちましたが、アップルユーザーの皆様におかれましては日々活用されていることでしょうか。&lt;/p&gt;</description>
     </item>
   </channel>

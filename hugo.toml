@@ -13,7 +13,7 @@ title = 'WTH'
 
 
 [params]
-author = "ftdr"
-headerTitle = "WTH"
-avatar = "img/avatar.png"
-favicon = "favicon.ico"
+  favicon = "favicon.ico"
+  author = "ftdr"
+  headerTitle = "WTH"
+  avatar = "img/avatar.png"
