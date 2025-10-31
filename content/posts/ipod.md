@@ -1,13 +1,50 @@
 ---
-title: "iPhoneをiPodにする"
-date: 2023-10-30T09:17:31+09:00
+title: iPhoneをiPodにする
+date: 2024-02-20T12:40:29+09:00
+lastmod: 2024-02-20T12:40:29+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/cover_try.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - TRY
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["gadget"]
 ---
 
 インターネットを見ていたら面白い記事を発見しました。
+<!--more-->
 
+
+
+---
+title: iPhoneをiPodにする
+date: 2024-02-20T12:40:29+09:00
+lastmod: 2024-02-20T12:40:29+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/PG.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
+draft: false
+---
+
+この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。
+<!--more-->
 [若者に人気の米アパレルショップがiPodを販売。すぐ完売](https://www.gizmodo.jp/2023/10/httpsgizmodo-comurban-outfitters-selling-vintage-ipods.html)
 
 新品バッテリーの初代iPod（128GB）が5万円強。自分はiPodを使っていた世代なので物珍しさで……というわけではありませんが、この頃MP3プレイヤーが欲しいと思っていたのでとても羨ましいです。**真ん中のアレをクルクルしたいよ〜**！

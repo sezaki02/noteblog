@@ -1,13 +1,24 @@
 ---
-title: "Interview with the Vampire"
-date: 2023-10-20T15:02:39+09:00
+title: Interview with the Vampire
+date:  2023-10-20T15:02:39+09:00
+lastmod:  2023-10-20T15:02:39+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/iwtv.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 10月後半です。秋も深まり芸術鑑賞のひとときを過ごしたくなるかと思いきや、毎日だいぶ暑いです。夏の亡霊がそのへんを彷徨ってるぜ。
-
+<!--more-->
 >18世紀末、最愛の妻を亡くし、絶望の淵に沈む彼の前に現れた悪魔的美貌の吸血鬼レスタト。彼によって永遠の命を与えらたルイは、レスタトと共に世紀末の夜をさまよう。現代のサンフランシスコ。街を見下ろすビルの一室で、インタビュアーを前に美しい青年ルイが自らの半生を語り始めた。
 
 出典：[Filmarks](https://filmarks.com/movies/27328)

@@ -1,13 +1,24 @@
 ---
-title: "Edge of Tomorrow"
+title: Edge of Tomorrow
 date: 2024-01-09T13:27:37+09:00
+lastmod: 2024-01-09T13:27:37+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/eot.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 *世界は繰り返さないものだ。誰もが同じ恐怖と戦っている。たったひとつの命を敵の前に晒している。*（桜坂洋. All You Need is Kill. 集英社 2012）
-
+<!--more-->
 {{< youtube vw61gCe2oqI >}}
 
 

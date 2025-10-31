@@ -1,13 +1,24 @@
 ---
-title: "Godzilla -1.0"
+title: Godzilla -1.0
 date: 2024-01-05T15:58:32+09:00
+lastmod: 2024-01-05T15:58:32+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/gm1.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
-2024年一本目はエクスペを待つか首かゴジラか悩んだ結果、ゴジラを鑑賞してきました。
-
+024年一本目はエクスペを待つか首かゴジラか悩んだ結果、ゴジラを鑑賞してきました。
+<!--more-->
 以下本編のネタバレを含みますのでご注意ください。
 
 {{< youtube VvSrHIX5a-0 >}}

@@ -1,14 +1,27 @@
 ---
-title: "iPhoneの新機能・Journalを試してみた"
+title: iPhoneの新機能・Journalを試してみた
 date: 2024-01-18T15:52:42+09:00
+lastmod: 2024-01-18T15:52:42+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/cover_try.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - TRY
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["App"]
 ---
+ジャーナルです。サービス開始から一ヶ月が経ちましたが、アップルユーザーの皆様におかれましては日々活用されていることでしょうか。
+<!--more-->
 
 [Apple、日々の瞬間や暮らしの中の特別な出来事を振り返るための新しいアプリ、ジャーナルの提供を開始](https://www.apple.com/jp/newsroom/2023/12/apple-launches-journal-app-a-new-app-for-reflecting-on-everyday-moments/)
 
-ジャーナルです。サービス開始から一ヶ月が経ちましたが、アップルユーザーの皆様におかれましては日々活用されていることでしょうか。  
 私はこのアプリがiPhoneの画面上に現れて以来一切触ってこなかったのですが、実際に触ってみるとなかなかいいなあと思ったので書いておきます。
 
 ### 日記をつけるのは苦痛だ

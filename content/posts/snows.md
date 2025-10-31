@@ -1,13 +1,24 @@
 ---
-title: "Snow Shark: Ancient Snow Beast"
+title: Snow Shark Ancient Snow Beast
 date: 2023-09-25T11:38:06+09:00
+lastmod: 2023-09-25T11:38:06+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/snowshark.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 いつのまにか九月も終盤に差し掛かっていますね。気温も下がり、いよいよ芸術（**サメ**）の秋と言ったところです。
-
+<!--more-->
 {{< youtube e6MRCrf80mg >}}
 
 >悲劇は12年前にすでに始まっていた。

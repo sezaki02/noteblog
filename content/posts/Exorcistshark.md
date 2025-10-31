@@ -1,13 +1,24 @@
 ---
-title: "Shark Exorcist"
+title: Shark Exorcist"
 date: 2023-10-23T11:40:39+09:00
+lastmod: 2023-10-23T11:40:39+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/sharkex.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 ヴァチカンのエクソシストの配信が始まっていますね。早く見放題に来てほしいなあと思っている今日この頃です。
-
+<!--more-->
 {{< youtube 8CZ1pKHHzW8 >}}
 
 >邪教に魅入られ大量殺人を犯した修道女ブレアは、最後の生贄を捧げて儀式を完遂してしまう。世界を恨み、神をも恐れぬ彼女が召喚したのはこの世の全て食らいつくす異形の存在、悪魔鮫≪デビルシャーク≫だった！悪魔鮫は次々と人間に憑依し、平和だったはずの田舎町は血に染まっていく。悪魔鮫の犠牲となった弟の無念を晴らすため、神父マイケルは十字架を手に悪魔鮫祓い≪シャーク・エクソシズム≫に挑まんとしていた…！

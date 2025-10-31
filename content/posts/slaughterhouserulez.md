@@ -1,12 +1,25 @@
 ---
-title: "Slaughterhouse Rulez"
-date: 2024-01-16T13:53:54+09:00
+title: Slaughterhouse Rulez
+date:  2024-01-16T13:53:54+09:00
+lastmod:  2024-01-16T13:53:54+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/sr.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
-スローターハウスルールズを観ました。サイダーハウスルールのタイトルパロディにしては最悪すぎんか？と爆笑していたのですが「サイダーハウスルール」の原作者アーヴィングは「スローターハウス5」の作者ヴォガネットの授業を受講していたと知り、そんな因果が……とさらに笑っています。ちなみにスローターハウス5は個人的に近年読むのに苦労した本ナンバーワンです（どうでもいい）
+スローターハウスルールズを観ました。サイダーハウスルールのタイトルパロディにしては最悪すぎんか？と爆笑していたのですが「サイダーハウスルール」の原作者アーヴィングは「スローターハウス5」の作者ヴォガネットの授業を受講していたと知り、そんな因果が……とさらに笑っています。
+<!--more-->
+ちなみにスローターハウス5は個人的に近年読むのに苦労した本ナンバーワンです（どうでもいい）
 
 {{< youtube xVzhqPC-CCM >}}
 

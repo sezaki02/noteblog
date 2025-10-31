@@ -1,13 +1,24 @@
 ---
-title: "Equalizer 3"
+title: Equalizer 3
 date: 2023-10-24T15:15:54+09:00
+lastmod: 2023-10-24T15:15:54+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/eq3.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 やっと見てきました。今日まで人様の感想・ネタバレを踏まずに暮らしてきましたが、結果的にとても楽しむことができました。
-
+<!--more-->
 以下本編のネタバレを含みます。
 
 {{< youtube GzIFPDi3XrM >}}
