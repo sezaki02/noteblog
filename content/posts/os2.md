@@ -1,13 +1,24 @@
 ---
-title: "Ouija Shark 2"
+title: Ouija Shark 2"
 date: 2023-09-11T15:11:55+09:00
+lastmod: 2023-09-11T15:11:55+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/os2.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 ２を見る機会に恵まれた今日この頃です。秋ですね。実はこの映画を見てから暫く日が経ってしまったので、色々忘れてます。すでに……。
-
+<!--more-->
 {{< youtube c6xboahqZw8 >}}
 
 >ウィジャ盤の力で地獄から召喚された無敵の幽霊ザメ「ウィジャ・シャーク」との激闘から数ヶ月。

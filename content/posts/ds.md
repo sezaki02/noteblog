@@ -1,16 +1,26 @@
 ---
-title: "エドワード・ヤンの恋愛時代（4Kレストア版）"
+title: エドワード・ヤンの恋愛時代（4Kレストア版"
 date: 2023-08-30T11:32:36+09:00
+lastmod: 2023-08-30T11:32:36+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/cc.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
 
-{{< youtube TOmYm-v7J8I >}}
-
-
-
 先日見てきました。ずっと見たいなあと思いながら機会がなかった作品なので劇場で見れて嬉しい。
+<!--more-->
+{{< youtube TOmYm-v7J8I >}}
 
 自分は群像劇が苦手なタイプの陰キャなので、その意味では完全には入り込めなかったのかも……とは思うのですが、それ以上に「みんな頑張って生きてるなあ」という謎の感慨が上回ったのでよかったです（？）。急激に発展する都市そのままに、キャラクターたちもすごくエネルギーに満ちた作品でした。
 

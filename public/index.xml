@@ -2,241 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WTH</title>
-    <link>http://localhost:1313/</link>
+    <link>https://wthnote.netlify.app/</link>
     <description>Recent content on WTH</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 Oct 2025 10:32:27 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wthnote.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We’re All Going to the World’s Fair</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://wthnote.netlify.app/posts/test/</link>
       <pubDate>Fri, 31 Oct 2025 10:32:27 +0900</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://wthnote.netlify.app/posts/test/</guid>
       <description>&lt;p&gt;思ってたのと違ったけどめちゃくちゃ面白かったです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mission Impossible – The Final Reckoning</title>
-      <link>http://localhost:1313/posts/fr/</link>
+      <link>https://wthnote.netlify.app/posts/fr/</link>
       <pubDate>Tue, 27 May 2025 15:33:58 +0900</pubDate>
-      <guid>http://localhost:1313/posts/fr/</guid>
+      <guid>https://wthnote.netlify.app/posts/fr/</guid>
       <description>&lt;p&gt;いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>GODLAND</title>
-      <link>http://localhost:1313/posts/godland/</link>
+      <link>https://wthnote.netlify.app/posts/godland/</link>
       <pubDate>Sat, 01 Mar 2025 13:27:47 +0900</pubDate>
-      <guid>http://localhost:1313/posts/godland/</guid>
+      <guid>https://wthnote.netlify.app/posts/godland/</guid>
       <description>&lt;p&gt;ゴッドランドを見ました。書いとかないと忘れるので取り急ぎ観たメモを！&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wallace &amp; Gromit Vengeance Most Fowl</title>
-      <link>http://localhost:1313/posts/wallaceandgromitvmf/</link>
+      <link>https://wthnote.netlify.app/posts/wallaceandgromitvmf/</link>
       <pubDate>Tue, 14 Jan 2025 11:56:15 +0900</pubDate>
-      <guid>http://localhost:1313/posts/wallaceandgromitvmf/</guid>
+      <guid>https://wthnote.netlify.app/posts/wallaceandgromitvmf/</guid>
       <description>&lt;p&gt;これのためだけにわざわざNetflixに加入した一月です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ブログをNetlifyに移行した</title>
-      <link>http://localhost:1313/posts/myblogmyhome/</link>
+      <link>https://wthnote.netlify.app/posts/myblogmyhome/</link>
       <pubDate>Fri, 10 Jan 2025 13:43:18 +0900</pubDate>
-      <guid>http://localhost:1313/posts/myblogmyhome/</guid>
+      <guid>https://wthnote.netlify.app/posts/myblogmyhome/</guid>
       <description>&lt;p&gt;ログをロリポップでの運用から移行し、Netlifyでのホスティングに変更しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>配信で見たベスト10・2024</title>
-      <link>http://localhost:1313/posts/2024best/</link>
+      <link>https://wthnote.netlify.app/posts/2024best/</link>
       <pubDate>Fri, 10 Jan 2025 11:13:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2024best/</guid>
+      <guid>https://wthnote.netlify.app/posts/2024best/</guid>
       <description>&lt;p&gt;これ2024年内にやれなかったのだいぶ「あーあ」って感じなんですけど（？）とりあえずまとめておきます。どれも面白い・素敵な作品なので「今年は家でなに見よっかな〜」という方の参考になれば幸いです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Great Wall</title>
-      <link>http://localhost:1313/posts/greatwall/</link>
+      <link>https://wthnote.netlify.app/posts/greatwall/</link>
       <pubDate>Wed, 24 Jul 2024 17:48:53 +0900</pubDate>
-      <guid>http://localhost:1313/posts/greatwall/</guid>
+      <guid>https://wthnote.netlify.app/posts/greatwall/</guid>
       <description>&lt;p&gt;トンチキ映画を勧められてすぐに見てしまうほどには暑いなあと思う今日この頃ですが、いかがお過ごしでしょうか。私は最近映画「グレートウォール」を見てだいぶ面白かったので、ここに感想を記録しておきたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Following</title>
-      <link>http://localhost:1313/posts/following/</link>
+      <link>https://wthnote.netlify.app/posts/following/</link>
       <pubDate>Fri, 24 May 2024 17:41:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/following/</guid>
+      <guid>https://wthnote.netlify.app/posts/following/</guid>
       <description>&lt;p&gt;フォロウィングHDレストア版です。来月からアマプラ見放題に来るとはいえ、映画館で見ておきたいんだよ俺は！ということで滑り込み鑑賞してきました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>DUNE PART 2</title>
-      <link>http://localhost:1313/posts/dune2/</link>
+      <link>https://wthnote.netlify.app/posts/dune2/</link>
       <pubDate>Mon, 25 Mar 2024 12:57:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/dune2/</guid>
+      <guid>https://wthnote.netlify.app/posts/dune2/</guid>
       <description>&lt;p&gt;観てきましたね。以下ネタバレを含みます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPhoneをiPodにする</title>
-      <link>http://localhost:1313/posts/ipod/</link>
+      <link>https://wthnote.netlify.app/posts/ipod/</link>
       <pubDate>Tue, 20 Feb 2024 12:40:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ipod/</guid>
+      <guid>https://wthnote.netlify.app/posts/ipod/</guid>
       <description>&lt;p&gt;インターネットを見ていたら面白い記事を発見しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Psycho Goreman</title>
-      <link>http://localhost:1313/posts/pg/</link>
+      <link>https://wthnote.netlify.app/posts/pg/</link>
       <pubDate>Tue, 20 Feb 2024 12:40:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/pg/</guid>
+      <guid>https://wthnote.netlify.app/posts/pg/</guid>
       <description>&lt;p&gt;この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。&lt;/p&gt;</description>
     </item>
     <item>
       <title>iPhoneの新機能・Journalを試してみた</title>
-      <link>http://localhost:1313/posts/journal/</link>
+      <link>https://wthnote.netlify.app/posts/journal/</link>
       <pubDate>Thu, 18 Jan 2024 15:52:42 +0900</pubDate>
-      <guid>http://localhost:1313/posts/journal/</guid>
+      <guid>https://wthnote.netlify.app/posts/journal/</guid>
       <description>&lt;p&gt;ジャーナルです。サービス開始から一ヶ月が経ちましたが、アップルユーザーの皆様におかれましては日々活用されていることでしょうか。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Slaughterhouse Rulez</title>
-      <link>http://localhost:1313/posts/slaughterhouserulez/</link>
+      <link>https://wthnote.netlify.app/posts/slaughterhouserulez/</link>
       <pubDate>Tue, 16 Jan 2024 13:53:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/slaughterhouserulez/</guid>
+      <guid>https://wthnote.netlify.app/posts/slaughterhouserulez/</guid>
       <description>&lt;p&gt;スローターハウスルールズを観ました。サイダーハウスルールのタイトルパロディにしては最悪すぎんか？と爆笑していたのですが「サイダーハウスルール」の原作者アーヴィングは「スローターハウス5」の作者ヴォガネットの授業を受講していたと知り、そんな因果が……とさらに笑っています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Edge of Tomorrow</title>
-      <link>http://localhost:1313/posts/edgeoftomorrow/</link>
+      <link>https://wthnote.netlify.app/posts/edgeoftomorrow/</link>
       <pubDate>Tue, 09 Jan 2024 13:27:37 +0900</pubDate>
-      <guid>http://localhost:1313/posts/edgeoftomorrow/</guid>
+      <guid>https://wthnote.netlify.app/posts/edgeoftomorrow/</guid>
       <description>&lt;p&gt;&lt;em&gt;世界は繰り返さないものだ。誰もが同じ恐怖と戦っている。たったひとつの命を敵の前に晒している。&lt;/em&gt;（桜坂洋. All You Need is Kill. 集英社 2012）&lt;/p&gt;</description>
     </item>
     <item>
       <title>Godzilla -1.0</title>
-      <link>http://localhost:1313/posts/godzillaminusone/</link>
+      <link>https://wthnote.netlify.app/posts/godzillaminusone/</link>
       <pubDate>Fri, 05 Jan 2024 15:58:32 +0900</pubDate>
-      <guid>http://localhost:1313/posts/godzillaminusone/</guid>
+      <guid>https://wthnote.netlify.app/posts/godzillaminusone/</guid>
       <description>&lt;p&gt;024年一本目はエクスペを待つか首かゴジラか悩んだ結果、ゴジラを鑑賞してきました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>今年見た旧作5選・2023</title>
-      <link>http://localhost:1313/posts/2023best90min/</link>
+      <link>https://wthnote.netlify.app/posts/2023best90min/</link>
       <pubDate>Thu, 28 Dec 2023 22:55:22 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2023best90min/</guid>
+      <guid>https://wthnote.netlify.app/posts/2023best90min/</guid>
       <description>&lt;p&gt;今年映画館で見た３選はてがろぐでやったので、とりあえず今年見た旧作特に好きな5本（90分以上）を記録しておきます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Cow</title>
-      <link>http://localhost:1313/posts/231225/</link>
+      <link>https://wthnote.netlify.app/posts/231225/</link>
       <pubDate>Mon, 25 Dec 2023 15:59:30 +0900</pubDate>
-      <guid>http://localhost:1313/posts/231225/</guid>
+      <guid>https://wthnote.netlify.app/posts/231225/</guid>
       <description>&lt;p&gt;ライカート監督だ！わーい！というだけで観に行ったら予期せぬトビージョーンズの登場に萌えを拗らせすぎて頭痛がすごかったです（終わり）&lt;/p&gt;</description>
     </item>
     <item>
       <title>Equalizer 3</title>
-      <link>http://localhost:1313/posts/equalizer3/</link>
+      <link>https://wthnote.netlify.app/posts/equalizer3/</link>
       <pubDate>Tue, 24 Oct 2023 15:15:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/equalizer3/</guid>
+      <guid>https://wthnote.netlify.app/posts/equalizer3/</guid>
       <description>&lt;p&gt;やっと見てきました。今日まで人様の感想・ネタバレを踏まずに暮らしてきましたが、結果的にとても楽しむことができました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shark Exorcist&#34;</title>
-      <link>http://localhost:1313/posts/exorcistshark/</link>
+      <link>https://wthnote.netlify.app/posts/exorcistshark/</link>
       <pubDate>Mon, 23 Oct 2023 11:40:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/exorcistshark/</guid>
+      <guid>https://wthnote.netlify.app/posts/exorcistshark/</guid>
       <description>&lt;p&gt;ヴァチカンのエクソシストの配信が始まっていますね。早く見放題に来てほしいなあと思っている今日この頃です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Vampire</title>
-      <link>http://localhost:1313/posts/vampire/</link>
+      <link>https://wthnote.netlify.app/posts/vampire/</link>
       <pubDate>Fri, 20 Oct 2023 15:02:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/vampire/</guid>
+      <guid>https://wthnote.netlify.app/posts/vampire/</guid>
       <description>&lt;p&gt;10月後半です。秋も深まり芸術鑑賞のひとときを過ごしたくなるかと思いきや、毎日だいぶ暑いです。夏の亡霊がそのへんを彷徨ってるぜ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Snow Shark Ancient Snow Beast</title>
-      <link>http://localhost:1313/posts/snows/</link>
+      <link>https://wthnote.netlify.app/posts/snows/</link>
       <pubDate>Mon, 25 Sep 2023 11:38:06 +0900</pubDate>
-      <guid>http://localhost:1313/posts/snows/</guid>
+      <guid>https://wthnote.netlify.app/posts/snows/</guid>
       <description>&lt;p&gt;いつのまにか九月も終盤に差し掛かっていますね。気温も下がり、いよいよ芸術（&lt;strong&gt;サメ&lt;/strong&gt;）の秋と言ったところです。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ouija Shark 2</title>
-      <link>http://localhost:1313/posts/os2/</link>
+      <title>Ouija Shark 2&#34;</title>
+      <link>https://wthnote.netlify.app/posts/os2/</link>
       <pubDate>Mon, 11 Sep 2023 15:11:55 +0900</pubDate>
-      <guid>http://localhost:1313/posts/os2/</guid>
-      <description>&lt;p&gt;２を見る機会に恵まれた今日この頃です。秋ですね。実はこの映画を見てから暫く日が経ってしまったので、色々忘れてます。すでに……。&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/c6xboahqZw8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;blockquote&gt;&#xA;    &lt;p&gt;ウィジャ盤の力で地獄から召喚された無敵の幽霊ザメ「ウィジャ・シャーク」との激闘から数ヶ月。&#xA;オカルトマスターのアンソニーはサメとの戦いの果てに地獄を彷徨っていた。&#xA;彼を復活させるべく家族や仲間がその方策を探る一方、地獄の支配者である悪魔カルドゥーラはサメを現世に解き放ってしまう。&#xA;巨大化し街をも破壊する力を得た幽霊ザメに人類は成す術もなく蹂躙されるが、アンソニーにはある秘策があった……！&#xA;唸れ！サメはめ波！&#xA;輝け！ミスティック・シールド！&#xA;オカルト殺法で再び敵を打ち破れ！&lt;/p&gt;&#xA;  &lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;出典：&lt;a href=&#34;https://landshark.crayonsite.com/p/47/&#34; target=&#34;_blank&#34;&gt;コンマビジョン&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;今作はジルのパパことアンソニーが主人公です。なお冒頭では前作の振り返りをきちんと説明してくれるので、１を未見の方でもそれなりに内容を把握できるやさしい作りとなっております。&lt;strong&gt;理解できるかどうかはわかりませんが&lt;/strong&gt;、前作を見た人間もべつに理解はできてないので大丈夫です。&lt;/p&gt;&#xA;&lt;h3 id=&#34;１に比べ爆増した予算&#34;&gt;①１に比べ爆増した予算&lt;/h3&gt;&#xA;&lt;p&gt;明らかに予算が増えています。導入からかなりちゃんとしたオープニングが流れたりと、諸々に気を配る余裕が見受けられます。しかしながら予算の増加がそのまま映画のクオリティ向上に直結しているのかと言えば必ずしもそうとは言えず。サメは相変わらずかわいいぬいぐるみだし。どちらかというと、使えるお金が増えたのでその分&lt;strong&gt;好きなだけ遊ぼう&lt;/strong&gt;という方向に暴走していると言った方がいいかもしれません。&lt;/p&gt;&#xA;&lt;h3 id=&#34;地獄でビキニミュージカル&#34;&gt;②地獄でビキニミュージカル&lt;/h3&gt;&#xA;&lt;p&gt;今作は楽曲作りにかなり力を入れているようで、劇中とエンドロールでオリジナルソングが使われたりしています。これがなかなか良作で、増えた予算の使い道としてはかなりの割合を占めているかと思われます。ただその良作の使い道が、地獄で悪魔とビキニ女性軍団が繰り広げる&lt;strong&gt;謎のミュージカル&lt;/strong&gt;なんですけど……。だいたい地獄でビキニ女性を侍らせている悪魔ってなんなんだよ。しかも女性の数も多いし、こんなところで予算使ってるのか？　&lt;strong&gt;頭おかしくなってくるが&lt;/strong&gt;……&lt;/p&gt;&#xA;&lt;h3 id=&#34;変わらぬテーマ家族愛&#34;&gt;③変わらぬテーマ、家族愛&lt;/h3&gt;&#xA;&lt;p&gt;前作ではアンソニーとジルの感動的な親子愛（棒読み）が描かれましたが、今作ジルは登場しないため必然的に別軸に焦点が当たります。ジルに変わって登場するのはジルのママにしてアンソニーの妻。アンソニーとは別居中でしたが、前作でジルを守って命を落としたアンソニーを思い、復活のため奔走します。&lt;/p&gt;&#xA;&lt;p&gt;また前作でも登場した霊媒師の女の子が今作でも活躍します。しかも今作では母親（職業：ネクロマンサー）も登場。疎遠だった親子の仲が変化するストーリーも&lt;strong&gt;ふんわり&lt;/strong&gt;練り込まれ、なんかいいかんじの家族愛にホロリ……とさせられる&lt;strong&gt;はず&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;h3 id=&#34;サメ-vs-ワニ&#34;&gt;③サメ vs ワニ&lt;/h3&gt;&#xA;&lt;p&gt;復活したウィジャシャークに対抗する術を考えるアンソニーは、奥さんの作ってくれたサメとワニのアイシングクッキーを見て「タロットゲーター」とかいうワニの霊を召喚することを思い付きます。街中を大暴れし、未曾有の大混乱を巻き起こすウィジャシャーク。そこへタロットゲーターが登場、人間たちは巨大霊体サメvs巨大霊体ワニというオカルトの脅威を目撃することに！&lt;/p&gt;&#xA;&lt;p&gt;ただセットとCGはあいかわらずのTHQ（とっても・ハリボテ・クオリティ）なので、べつに迫力とかはないです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;オカルトマスター仲間を得る&#34;&gt;④オカルトマスター、仲間を得る&lt;/h3&gt;&#xA;&lt;p&gt;アンソニーはウィジャシャークに対抗するため、妻と霊媒師に自らのオカルト殺法を教え込みます。ミスティック・シールドとファイア・ボールを使えるようになった二人はアンソニーをサポートし、無事ウィジャシャークと悪魔を倒すことに成功。三人はチームとなり、世に蔓延る悪のオカルトと対決していくことを誓います。つまりこのシリーズは&lt;strong&gt;まだまだ続く&lt;/strong&gt;ってことだ！&lt;/p&gt;&#xA;&lt;p&gt;映画としては相変わらず意味不明でしたが、楽しく作っている気持ちが伝わってきたので良かったです。エンディング見てるとスタッフさんはラストネーム的に監督の身内の方が多いのかなあという感じで、それもそれでもうなんかぜんぶ楽しければヨシ！　という気持ちになれました。サメ映画としての感想は&lt;strong&gt;特にありません&lt;/strong&gt;！&lt;/p&gt;</description>
+      <guid>https://wthnote.netlify.app/posts/os2/</guid>
+      <description>&lt;p&gt;２を見る機会に恵まれた今日この頃です。秋ですね。実はこの映画を見てから暫く日が経ってしまったので、色々忘れてます。すでに……。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Land Shark</title>
-      <link>http://localhost:1313/posts/ls/</link>
+      <link>https://wthnote.netlify.app/posts/ls/</link>
       <pubDate>Wed, 06 Sep 2023 08:41:41 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ls/</guid>
-      <description>&lt;p&gt;シャーケンシュタインに続きランドシャークを見ました。邦題サブタイトル「丘ジョーズの逆襲」とのことで、丘ジョーズも意味不明だし何が逆襲なのかもまったくわかりませんが、元気いっぱいでよろしい！という感じです（&lt;strong&gt;もう疲れてる&lt;/strong&gt;）。&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1JRnWL5Tnqg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;blockquote&gt;&#xA;    &lt;p&gt;カリフォルニア沿岸で、謎の変死事故が多発する。その頃、マルコ海洋研究所のルシンダは、サメ達が水槽から消えていることに気付く。水槽と海は繋がっていない、まさか陸を！？上司のフォスター博士に伝えると、研究所の真の目的を聞かされる。それは遺伝子操作により殺人サメを開発し、軍事兵器として供給する事だった。さらに、この計画に協力するよう脅迫してくるのだった&amp;hellip;&lt;/p&gt;&#xA;  &lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;引用元：&lt;a href=&#34;https://landshark.crayonsite.com/p/2/&#34; target=&#34;_blank&#34;&gt;コンマビジョン&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;そもそもの話なんですけど、サメ映画に出てくる人間たち&lt;strong&gt;サメを兵器にしたすぎだろ&lt;/strong&gt;。この情熱は一体どこからくるんだ。しかも今回は水陸両用。海を制すものは陸も制すの精神です。こうなれば残すは空……かと思いきやパッケージの煽り文に「陸海喰！」とあり、&lt;strong&gt;あ〜はいはい&lt;/strong&gt;……&lt;/p&gt;&#xA;&lt;h3 id=&#34;前作に比べ全体的なクオリティが上がっている内容を除く&#34;&gt;①前作に比べ、全体的なクオリティが上がっている（※内容を除く）&lt;/h3&gt;&#xA;&lt;p&gt;ランドシャークはシャーケンシュタインの次作にあたるようなのですが、シャーケンシュタインと比べ映像作品としてのクオリティはかなり上がっているように見えます。かなりまともな音楽が&lt;strong&gt;バカみたいなタイミングではなく適切なシーンで&lt;/strong&gt;使われているし、カメラワークや編集も普通に良い！と思いました。&lt;/p&gt;&#xA;&lt;p&gt;ただ肝心のサメ造形は相変わらずの&lt;strong&gt;ハリボテ感&lt;/strong&gt;、CGに関してもまた予算がないのかなんなのか、多用している割には非常に粗末です。今回は建物ではなくサメが燃えますが、まあエフェクトが乗っかってるだけで&lt;strong&gt;燃えてないんだなこれが&lt;/strong&gt;。しかしもはやそれが&lt;strong&gt;味とさえ言える&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;h3 id=&#34;相変わらず登場人物は多い&#34;&gt;②相変わらず登場人物は多い&lt;/h3&gt;&#xA;&lt;p&gt;シャーケンシュタインもそうでしたが80分という短さに対してモブの人数がめちゃくちゃ多いです。だいたいはサメに食べられてしまう役なんですが、様々なシチュエーションでサメに食われる様々な人々の様子が描かれます。これもう監督の&lt;strong&gt;萌え&lt;/strong&gt;かなんかなんだと思う（最悪）。ビーチで襲われるビキニ女性に始まり、波止場で襲われる男性、撮影中のモデルとカメラマン（また？）、電話回線工事の男性、駅で電車を逃した女性、放浪生活中の男性などなど……。ピクニック中に襲われたのはシャーケンシュタインだっけ？　もうなにがなんだかわからない。&lt;/p&gt;&#xA;&lt;p&gt;その他サメの目撃者（？）としてテレビのインタビューに答える港の男性がいるのですが、これはどうやら監督のようです。&lt;strong&gt;おまえも食われる役やれよ&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;h3 id=&#34;真のランドシャークそれはサメ人間&#34;&gt;③真のランドシャーク、それはサメ人間&lt;/h3&gt;&#xA;&lt;p&gt;ストーリーのことが完全に抜け落ちてました。よくある海洋生物研究所だと思っていたら実は殺人ザメを開発しているヤバイ職場であることが発覚、主人公（多分）のルシンダは上司と手を組み、勝手な行動で次々事件を起こすサメの始末に乗り出す……というお話です。&lt;/p&gt;&#xA;&lt;p&gt;サメに仕込まれた発信器（？）を頼りに海辺や荒地を探知機を持って警戒する二人。この探知機がずっとピコンピコンピコンピコン言ってて&lt;strong&gt;めちゃくちゃストレス&lt;/strong&gt;です。早くサメを捕まえてくれ。そして終わってくれ……という気持ちになります（まだ数十分ある）。&lt;/p&gt;&#xA;&lt;p&gt;研究所から逃げ出したサメ全てを退治した後もピコンピコンは続き、訝しむ主人公。すると上司が異様な動きを見せます。のたうちまわる上司。みるみるうちに頭と手足がサメになり（手足？）、ついにサメ人間が爆誕。実は上司は殺人サメのDNAを自分に注射しており、サメと人間の最強ハイブリッド兵器となったのでした。&lt;/p&gt;&#xA;&lt;p&gt;このサメ人間のビジュアルがなかなか奇怪でいいのですが、正直サメかどうかはよくわからない造形です。サメっていうか&lt;strong&gt;魚&lt;/strong&gt;だと思う。この辺は各自ご確認いただければ幸いです（突然丸投げ）。いやこの映画本当……スプラッタ系の美術はかなりクオリティが高いのに肝心のサメとかアレとかが微妙なのが本当に……。&lt;/p&gt;&#xA;&lt;p&gt;色々言ったけどなんだかんだ他作品も見たいと思います。&lt;strong&gt;俺はもうダメだ&lt;/strong&gt;……。&lt;/p&gt;</description>
+      <guid>https://wthnote.netlify.app/posts/ls/</guid>
+      <description>&lt;p&gt;シャーケンシュタインに続きランドシャークを見ました。邦題サブタイトル「丘ジョーズの逆襲」とのことで、丘ジョーズも意味不明だし何が逆襲なのかもまったくわかりませんが、元気いっぱいでよろしい！という感じです（&lt;strong&gt;もう疲れてる&lt;/strong&gt;）。&lt;/p&gt;</description>
     </item>
     <item>
       <title>青い春</title>
-      <link>http://localhost:1313/posts/aoiharu/</link>
+      <link>https://wthnote.netlify.app/posts/aoiharu/</link>
       <pubDate>Mon, 04 Sep 2023 12:46:54 +0900</pubDate>
-      <guid>http://localhost:1313/posts/aoiharu/</guid>
+      <guid>https://wthnote.netlify.app/posts/aoiharu/</guid>
       <description>&lt;p&gt;前々から気になってた映画を！ついに見た！！（そんなことばっかり言ってるな？）&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Hunted(1995)</title>
-      <link>http://localhost:1313/posts/th/</link>
+      <title>The Hunted(1995)&#34;</title>
+      <link>https://wthnote.netlify.app/posts/th/</link>
       <pubDate>Thu, 31 Aug 2023 13:58:21 +0900</pubDate>
-      <guid>http://localhost:1313/posts/th/</guid>
-      <description>&lt;p&gt;ヘンテコジャパンを取り扱うニンジャサムライムービーは数あれど、舞台が&lt;strong&gt;名古屋&lt;/strong&gt;でちゃんと現地ロケしてる映画ってこの映画くらいじゃないだろうか。ジャパン＝トーキョーの価値観を脱したヘンテコ名古屋ムービーが1995年に爆誕していたとは知らなかったよ。&lt;/p&gt;&#xA;&lt;p&gt;物語のあらすじは、アメリカから名古屋に商談で来た男性が、謎の美女と出会ったことで忍者vs侍の戦いに巻き込まれていく……というもの（&lt;strong&gt;雑すぎる&lt;/strong&gt;）。&lt;/p&gt;&#xA;&lt;p&gt;なお無意味なお色気シーンや公共交通機関での無差別襲撃シーンがあるので、抵抗がある方にはおすすめしません。&lt;/p&gt;&#xA;&lt;h3 id=&#34;トンデモニッポンとガチ日本の融合&#34;&gt;①トンデモニッポンとガチ日本の融合&lt;/h3&gt;&#xA;&lt;p&gt;これはねちゃんと日本に来てロケしている分&lt;strong&gt;始末が悪い&lt;/strong&gt;という感想に尽きます。名古屋の街並みとか（行ったことないけど）ちゃんと日本の風景だし、流暢な日本語を話す役者さんが一定数いて普通に見られる場面が続いたかと思いきや、主人公の泊まっているホテルの内装がおかしい（障子を開けたらいきなり檜風呂がある）とか、パチンコ屋に未成年がいる等の事案が発生して混乱します。&lt;/p&gt;&#xA;&lt;p&gt;かと思えば劇中でずっと流れている太鼓を演奏しているのは鼓童の方々だそうで、監督がかなり真剣にジャパンに取り組もうとしていたことはわかります。&lt;/p&gt;&#xA;&lt;h3 id=&#34;鉄道会社jer&#34;&gt;②鉄道会社JER&lt;/h3&gt;&#xA;&lt;p&gt;主人公が武道の達人夫婦（原田芳雄&amp;amp;島田陽子）に匿われ新幹線に乗るシーンがあるのですが、新幹線は実際のホームも利用してガワを撮影しているようで、ここは素直によく撮らせてくれたなあと感動。なお社名は当然ながらJRではなく&lt;strong&gt;JER&lt;/strong&gt;となっています。この内装がまた&lt;strong&gt;オリエント急行か&lt;/strong&gt;？という感じで、個別の客室やバーカウンターがあったりします。&lt;/p&gt;&#xA;&lt;p&gt;主人公を追いかけてきた忍者一味こと夏木マリ姉さん御一行が車内で大暴れ、それを日本刀一本でなぎ倒す原田芳雄、弓で援護する島田陽子、めちゃくちゃかっこいい。主人公はコッソリ持ち込んでいた銃で応戦しようとしますが、原田芳雄に「銃はダメだ！」と&lt;strong&gt;投げ捨てられる&lt;/strong&gt;謎展開により見せ場はなし。&lt;/p&gt;&#xA;&lt;p&gt;ちなみに主人公の銃は、主人公が襲撃に遭い入院していた病院で刑事が携行していたもの。この刑事が岡田眞澄で「岡田眞澄出たが！？」とめちゃくちゃ喜んだのも束の間、忍者に襲われてすぐさま&lt;strong&gt;退場&lt;/strong&gt;となります。そんな……ファンファン刑事をもっと見ていたかったのに……。&lt;/p&gt;&#xA;&lt;h3 id=&#34;殺陣シーンがすごい&#34;&gt;③殺陣シーンがすごい&lt;/h3&gt;&#xA;&lt;p&gt;監督はとても日本の時代劇がお好きということで、忍者・ジョンローンと侍・原田芳雄が戦うシーンはめちゃくちゃ見応えがありました。動きもかっこいいし迫力もあり、ここは俳優陣の力量のすごさでもあると思います。&lt;/p&gt;&#xA;&lt;h3 id=&#34;キャラが立っている&#34;&gt;④キャラが立っている&lt;/h3&gt;&#xA;&lt;p&gt;総合的に見てどうにもショボさが否めない作品ではあるのですが、キャラクターの個性がそれぞれ光っていてかなり良かったです。激シブ原田芳雄と強くて美しい島田陽子、「&lt;strong&gt;外人パワーだ&lt;/strong&gt;」とか言って殴ってくる主人公（他に褒めどころないのか？）、あと原田芳雄の仲間で刀鍛冶の&lt;strong&gt;アル中じいさん&lt;/strong&gt;が出てくるんですけどこの人があまりにマイペースキャラでとてもよかったです。ジョンローンは、&lt;strong&gt;まあ……&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;そんな感じでした。面白くなかったけど面白かったなあ。なんなんだろうこの感じ……&lt;/p&gt;</description>
+      <guid>https://wthnote.netlify.app/posts/th/</guid>
+      <description>&lt;p&gt;ヘンテコジャパンを取り扱うニンジャサムライムービーは数あれど、舞台が&lt;strong&gt;名古屋&lt;/strong&gt;でちゃんと現地ロケしてる映画ってこの映画くらいじゃないだろうか。ジャパン＝トーキョーの価値観を脱したヘンテコ名古屋ムービーが1995年に爆誕していたとは知らなかったよ。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>エドワード・ヤンの恋愛時代（4Kレストア版）</title>
-      <link>http://localhost:1313/posts/ds/</link>
+      <title>エドワード・ヤンの恋愛時代（4Kレストア版&#34;</title>
+      <link>https://wthnote.netlify.app/posts/ds/</link>
       <pubDate>Wed, 30 Aug 2023 11:32:36 +0900</pubDate>
-      <guid>http://localhost:1313/posts/ds/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TOmYm-v7J8I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;先日見てきました。ずっと見たいなあと思いながら機会がなかった作品なので劇場で見れて嬉しい。&lt;/p&gt;&#xA;&lt;p&gt;自分は群像劇が苦手なタイプの陰キャなので、その意味では完全には入り込めなかったのかも……とは思うのですが、それ以上に「みんな頑張って生きてるなあ」という謎の感慨が上回ったのでよかったです（？）。急激に発展する都市そのままに、キャラクターたちもすごくエネルギーに満ちた作品でした。&lt;/p&gt;&#xA;&lt;p&gt;笑い、悩み、確かなものを求め、自分の道を行く。原題の「獨立時代」がなんだかんだ一番しっくりくる気がします。&lt;/p&gt;&#xA;&lt;p&gt;内容というか見えるものとしてはとにかく映像が美しすぎる。夜の黒とか青とか、逆光で見えにくい中僅かに浮き上がる表情とか、画の切り出し方が好きすぎる。緑色のオフィスに飾られた緑色のガラス花瓶とか、挟まれる鮮明な赤とか、でもやっぱり黒があまりに美しい。あとミンという登場人物の住む民家のシーンがあるのですが、ここの画の切り出し方は牯嶺街を思い出させる感じでとても好きです。&lt;/p&gt;&#xA;&lt;p&gt;あとこの作品結構な頻度でエレベーターが登場するのですが、最後の最後で活躍するのもエレベーターなのが本当にいいです。あのラスト一生忘れたくないなってくらいいいシーンでした。修復してくれてありがとう国家電影及視聴文化中心のみなさん……&lt;/p&gt;&#xA;&lt;p&gt;修復前・後のフィルム比較画像が掲載されている記事を発見したので貼っておきます。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.thenewslens.com/amparticle/172922&#34; target=&#34;_blank&#34;&gt;台灣名導楊德昌《獨立時代》修復版於威尼斯首映，遺孀彭鎧立：「導演想表達的，是比台北更深的含義」&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://wthnote.netlify.app/posts/ds/</guid>
+      <description>&lt;p&gt;先日見てきました。ずっと見たいなあと思いながら機会がなかった作品なので劇場で見れて嬉しい。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sharkenstein</title>
-      <link>http://localhost:1313/posts/sharkenstein/</link>
+      <title>Sharkenstein&#34;</title>
+      <link>https://wthnote.netlify.app/posts/sharkenstein/</link>
       <pubDate>Tue, 29 Aug 2023 15:50:19 +0900</pubDate>
-      <guid>http://localhost:1313/posts/sharkenstein/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2VW2v4gcpds?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;blockquote&gt;&#xA;    &lt;p&gt;第二次世界大戦中、ヒトラーはフランケンシュタインを生物兵器化する恐るべき計画を進めていたが、実戦に投入される前にナチスドイツは敗北してしまう。&#xA;それから時は過ぎ、現代のアメリカのとある港町で行方不明者が続出していた。&#xA;観光に訪れたマッジたちは偶然ネオナチスの研究所に迷い込み、世界征服を目論む悪の科学者クラウスがサメとフランケンシュタインを合体させ生み出した最凶の怪物 &amp;ldquo;&amp;gt;シャーケンシュタイン&amp;rdquo; の存在を知る。&#xA;果たして彼女たちはこの邪悪な計画を阻止することができるのだろうか…！？&#xA;（引用元：https://landshark.crayonsite.com/p/42/）&lt;/p&gt;&#xA;  &lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;もうあらすじだけで&lt;strong&gt;具合が悪い&lt;/strong&gt;わけですが、ちゃんと最後まで見ました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;雑すぎるcg&#34;&gt;①雑すぎるCG&lt;/h3&gt;&#xA;&lt;p&gt;お話はまず第二次世界大戦中のナチスドイツが何やら怪しい研究をしているところから始まります。過去話だからか画面はモノクロ。月夜の海（たぶん）面にUボートが&#xA;水しぶきと共に姿を現します。不気味です。なにが不気味って海の背景に&lt;strong&gt;シールで貼り付けたみたいな&lt;/strong&gt;Uボートと、およそ船体から吹き上がるとは思えない&lt;strong&gt;謎の水エフェクト&lt;/strong&gt;、おまえのことだよ。冒頭からすでに挫かれる緊張感。&lt;/p&gt;&#xA;&lt;p&gt;ナチスは兵器としてのフランケンシュタイン研究を進めていましたが、実用化する前に敗北。計画はは永久に闇に葬られた……はずでしたが、その技術を用いて世界征服を企む人間がなんと現代アメリカに存在。彼はサメとフランケンシュタインを合体させた「シャーケンシュタイン」を生み出すことに成功します。&lt;/p&gt;&#xA;&lt;p&gt;シャーケンシュタインはビーチに忍び込み、人知れず人間を襲い始めます。この襲う描写がまた&lt;strong&gt;雑で&lt;/strong&gt;……これはもう実際の映像（実際の映像？）を見るのが一番手っ取り早く理解頂けるんですが、なんかサメの&lt;strong&gt;一枚絵&lt;/strong&gt;が人間の前に突然現れ、咀嚼音とともに突然消える。&lt;strong&gt;おわり&lt;/strong&gt;。何が起きているのかまったくわからねえ……。&lt;/p&gt;&#xA;&lt;p&gt;サメのビジュアルもまたなんとも言えず、フランケンシュタインらしく継ぎはぎされているのですがなんか&lt;strong&gt;裁縫初心者が作ったぬいぐるみ&lt;/strong&gt;感がすごく、特に見た目は怖くないです。これはもうZ級サメ映画あるあるなのかな。かわいいです。&lt;strong&gt;よく言えば&lt;/strong&gt;……&lt;/p&gt;&#xA;&lt;p&gt;他にもCGはたくさん使われており、嵐になりそうな曇天（CG）から視線を戻すと快晴とか、ダイナマイトを仕掛けた建物が炎に包まれているのに建物は全然燃えていないとか、CGそのものだけでなく&lt;strong&gt;使い方も雑すぎて&lt;/strong&gt;見ていて具合が悪くなります。&lt;/p&gt;&#xA;&lt;h3 id=&#34;急に繰り出されるフランケンシュタイン愛&#34;&gt;②急に繰り出されるフランケンシュタイン愛&lt;/h3&gt;&#xA;&lt;p&gt;後半はバカンスでこのデンジャラス海岸を訪れた女の子マッジと湾岸警備隊（？）のおじさんが打倒サメに奔走するんですが、話の流れで実はマッジはフランケンシュタイン映画の大変なマニアであることが判明します。&lt;strong&gt;急なオタクトークやめろ&lt;/strong&gt;。おじさんも「&lt;strong&gt;ハマー・プロは？&lt;/strong&gt;」とマッジに尋ねたりと微妙に知識があり、とにかくフランケンシュタインに対して愛がある映画であることは間違いありません。&lt;/p&gt;&#xA;&lt;h3 id=&#34;とにかく全てが雑&#34;&gt;③とにかく全てが雑&lt;/h3&gt;&#xA;&lt;p&gt;コレはもうツッコミだしたらキリがないんですけど、海から上がった次の瞬間服が完全に乾いてるとか、どう考えても海底に足がつくロケーションじゃないだろうと思われるところで立ち上がるとか、州の弾薬庫として使われていた廃屋にまだダイナマイトが残っているとか（危なすぎ）、後半二十分くらいで急に登場人物（モブ）が十人くらい増えるとか、意味不明なタイミングで挟まれる意味不明なBGMとか、&lt;strong&gt;なんかもうどうでもよくなってきたな&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;そんな感じです。いやー元気出るな！（げっそり）&lt;/p&gt;</description>
+      <guid>https://wthnote.netlify.app/posts/sharkenstein/</guid>
+      <description>&lt;p&gt;もうあらすじだけで&lt;strong&gt;具合が悪い&lt;/strong&gt;わけですが、ちゃんと最後まで見ました。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ouija Shark</title>
-      <link>http://localhost:1313/posts/os/</link>
+      <title>Ouija Shark&#34;</title>
+      <link>https://wthnote.netlify.app/posts/os/</link>
       <pubDate>Mon, 28 Aug 2023 14:15:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/os/</guid>
-      <description>&lt;p&gt;ずっと気になっていた作品を遂に見ました！&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/effVRl2LOQs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;blockquote&gt;&#xA;    &lt;p&gt;ジルは旅行先のビーチで古びた木片を拾うが、それは霊界と現世を繋いでしまう魔のアイテム”ウィジャ盤”だった。&#xA;ウィジャ盤の魔力により、ジルとその友人達は霊界から凶暴な人喰いザメを召喚してしまう。&#xA;ウィジャ・シャークは次々と人間を襲い、町は一転して大パニックに。&#xA;神出鬼没で無敵の霊体ザメを打ち倒す手段を知るのはただ一人、超能力を操るジルの父親だった…。(公式サイトより)&lt;/p&gt;&#xA;  &lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;これ「打ち倒す手段を知るのはただ一人、超能力を操るジルの父親だった」って書いてあるのを見て&lt;strong&gt;そうだったかな&lt;/strong&gt;と思ったんだけど&lt;strong&gt;もう一回最初から見たほうがいいのかな&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ビーチに集合の約束で来たのに置いていかれるジルかわいそう&#34;&gt;①ビーチに集合の約束で来たのに置いていかれるジルかわいそう&lt;/h3&gt;&#xA;&lt;p&gt;まずね主人公のジルは友達数人とビーチで待ち合わせの約束をしていて森にやってくるんですけど、みんな遅れていて誰も来ない。仕方ないので一人で泳いでいるうちに謎のウィジャ盤が流れ着き、訝しんでいるところへ友人キムから「&lt;strong&gt;他メンバーは先に宿泊先行ってるね！！&lt;/strong&gt;」と電話が入ります。&lt;strong&gt;ひどいが？？&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;泳いでいるジルが不思議な気配（サメ）に気味悪がるいいシーンでもあるんですが、そもそも場所が森の中の&lt;strong&gt;静かな湖畔&lt;/strong&gt;みたいな場所で、正直&lt;strong&gt;サメとか出なさそうだな&lt;/strong&gt;というチグハグ感がとてつもなかったです。&lt;strong&gt;ネッシーとかならいるかもしれないけどさ&lt;/strong&gt;……。&lt;/p&gt;&#xA;&lt;h3 id=&#34;謎の洗車シーン&#34;&gt;②謎の洗車シーン&lt;/h3&gt;&#xA;&lt;p&gt;ジルは無事宿泊先の家にたどり着き友人たち（キム・ドナ・ジェン・ティファニー）と合流。プール付きの豪邸でみんなテンションが上がっている中、ティファニーは偶然お隣に住む男性が洗車しているところに遭遇します。&lt;strong&gt;これは恋の予感……！&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;みんながプールで楽しく遊んでいるあいだ、ティファニーは男性と意気投合し（？）洗車を手伝うのですが、この洗車シーンが&lt;strong&gt;無駄に長い&lt;/strong&gt;。なんかいい感じの音楽をバックに二人がひたすらHONDAのマイカーを洗車し、洗車し、水着になり、洗車し、&lt;strong&gt;まだやるの？コレ&lt;/strong&gt; という気持ちになってきます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ikeaのサメみたいな霊体ザメ&#34;&gt;③IKEAのサメみたいな霊体ザメ&lt;/h3&gt;&#xA;&lt;p&gt;食後の余興（？）でついうっかり霊体ザメを召喚してしまったジルたち。サメは新鮮な肉を求めて自由にこの世を動き回り始めるのですが、造形がどうにも&lt;strong&gt;布か粘土でできた可愛いサメ&lt;/strong&gt;で、見た目的な迫力にイマイチ（かなり）欠けます。オバケの迫力ってべつに見た目どうこうじゃないと思うんですが、全身出ちゃってるしCGは低予算だし、人間に噛みつく時の音も「サクッ」と言う感じで、どう見ても&lt;strong&gt;スタッフがリンゴをかじる音&lt;/strong&gt;です本当にありがとうございました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;ジルのパパオカルトは遊びじゃない&#34;&gt;④ジルのパパ「オカルトは遊びじゃない」&lt;/h3&gt;&#xA;&lt;p&gt;霊体ザメを呼び出す儀式を行った夜、ジルは不安になり父親に電話をします。&lt;strong&gt;パパに電話してどうすんだよ&lt;/strong&gt; と思ったんですが、どうやらジルのパパは「召喚は専門外だが……」とのことで&lt;strong&gt;その道に通じた人&lt;/strong&gt;だったようです。そうなんだ……？&lt;/p&gt;&#xA;&lt;p&gt;パパは「オカルトは遊びじゃないんだぞ」とジルを窘め、ウィジャ盤と霊体ザメについて調べ始めます。そしてサメの精霊について書かれた&lt;strong&gt;Internet article&lt;/strong&gt;を見つけ、ジルに迫る危機を防ぐため行動に出ます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;霊力対決霊界サメ大戦&#34;&gt;⑤霊力対決！霊界サメ大戦&lt;/h3&gt;&#xA;&lt;p&gt;腹ペコの霊体サメは人間たちを次々容赦無く襲っていきます。友人たちが襲われ、鍵となるウィジャ盤も紛失してしまい窮地に陥るジル。その頃ジルのパパは霊媒師を訪問し、霊体サメの意識をジルから逸らし自分たちの方へと向けさせることに成功します。&lt;strong&gt;霊媒師のお姉さんが&lt;/strong&gt;。しかしその過程でパパは命を落としてしまいます。のちにウィジャ盤を取り返したジルがウィジャ盤に「私たちの救世主は？」と尋ねると「パパだよ。お前を愛してるよ」との返答が返ってきます（&lt;strong&gt;ここは泣くところです&lt;/strong&gt;）。ちなみにウィジャ盤を取り返すくだりも&lt;strong&gt;なかなかアレ&lt;/strong&gt;なのでぜひ本編を見て欲しい。&lt;/p&gt;&#xA;&lt;p&gt;さてさて……なんとパパは死後天国で無敵の霊体となり、霊体vs霊体で戦う展開に。パパは「ミスティック・シールド」という&lt;strong&gt;ドクターストレンジが繰り出すオレンジ色の電熱コンロバリアみたいな&lt;/strong&gt;技で霊体サメの攻撃を防ぎます。そして最後は&lt;strong&gt;素手で立ち向かい&lt;/strong&gt;、画面は相討ちかのごとき爆発と煙が……すごい……&lt;strong&gt;いったい何を見せられているんだ……？&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;しかもサメは実はまだ倒れておらず、ジルが発砲してウィジャ盤をぶち壊したことによりサメは消滅します。サメが消えて「こんなものない方がいい」的に壊した感じではなかったです。&lt;strong&gt;二段階認証式か？こいつは……&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;アメリカンジョークも忘れない&#34;&gt;⑥アメリカンジョークも忘れない&lt;/h3&gt;&#xA;&lt;p&gt;無事サメを倒したジルは色々あって逃げ延びてきた警官のおじさんとホッと一息をつきます。「一杯どうだ」という警官に「寿司も一緒に」と返すジル。「それは勘弁」と肩を竦める警官おじさん……。&lt;strong&gt;笑うところなのかな、これ……&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;この後実はアメリカ政府の陰謀だったみたいなことが発覚しおそらく２作目へと続いています。もうねあまりのことに長々書いちゃったよ。Z級映画が好きすぎるとこういうことになるよ！でもこれはちゃんと見れるタイプだからZ級ではない。大丈夫です（&lt;strong&gt;なにが？&lt;/strong&gt;）。次作も見れたら感想文書きます。&lt;/p&gt;</description>
+      <guid>https://wthnote.netlify.app/posts/os/</guid>
+      <description>&lt;p&gt;ずっと気になっていた作品を遂に見ました！&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mission: Impossible – Dead Reckoning Part One</title>
-      <link>http://localhost:1313/posts/dr/</link>
+      <title>Mission Impossible – Dead Reckoning Part One&#34;</title>
+      <link>https://wthnote.netlify.app/posts/dr/</link>
       <pubDate>Sun, 27 Aug 2023 08:56:37 +0900</pubDate>
-      <guid>http://localhost:1313/posts/dr/</guid>
-      <description>&lt;p&gt;この記事を書いている現在で三回観に行ってきたのですが、あらゆるところで騒ぎすぎて&lt;strong&gt;もうブログに書かなくてもいいや&lt;/strong&gt;と思ったけどやっぱり書いておきます。&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/fOsYm_8Rosc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;blockquote&gt;&#xA;    &lt;p&gt;IMFエージェント、イーサン・ハントに課せられた究極のミッション&#xA;—全人類を脅かす新兵器が悪の手に渡る前に見つけ出すこと。&#xA;しかし、IMF所属前のイーサンの“逃れられない過去”を知る“ある男”が迫るなか、&#xA;世界各地でイーサンたちは命を懸けた攻防を繰り広げる。&#xA;やがて、今回のミッションはどんな犠牲を払っても&#xA;絶対に達成させなければならないことを知る。&#xA;その時、守るのは、ミッションか、それとも仲間か。&#xA;イーサンに、史上最大の決断が迫る—&#xA;（公式サイトより）&lt;/p&gt;&#xA;  &lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;この「全人類を脅かす新兵器」っていうのがAIで、驚異的な計算能力で未来を予測したり、色んなシステムに侵入してデータを改竄しちゃうことができるというヤバさから&lt;strong&gt;イーサンハントくんに目をつけられる&lt;/strong&gt;という話です（雑）。&lt;/p&gt;&#xA;&lt;p&gt;この設定で面白いなと思ったのは、AIというモチーフが非常にタイムリーであるのはもちろんですが、高度な知能で情報を操作し改竄できるという存在が「相手を騙して目的を達成してきた」ともいえるIMFチームの敵として登場したところです。しかも相手は未来を予測して常に先を読んでいるという……。この完全に「詰み」の状況というのは、これまでのシリーズとは一味違った緊迫感があるなあと。&lt;/p&gt;&#xA;&lt;p&gt;あと今作はめちゃくちゃ一作目を意識して作られていたのが嬉しかった！特にキトリッジくんね……きみ&lt;strong&gt;また列車に乗せられてるんか&lt;/strong&gt;っていうね。&lt;/p&gt;&#xA;&lt;p&gt;しかもマックスの娘であるところのアラナも乗車してこの二人のやりとりがあるっていうのが本当にいい。アラナが鼻の付け根？にシワを寄せて表情を作るのめちゃくちゃマックスじゃないですか？？&lt;strong&gt;泣くが？？？？&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;初登場組はグレースやパリスはもちろん、敵役ガブリエルの不穏さ、あとCIAの凸凹コンビも強烈で良かったです。すぐ武力行使するマンと冷静な青年のコンビはずるいよ〜！全然違うけどこの二人を見ながらなぜかTRICKの矢部と石原（兄ィ！の人）を思い出したりしていました。PART TWOでの活躍も楽しみすぎる。&lt;/p&gt;&#xA;&lt;p&gt;アクションシーンは言うまでもなく素晴らしいし、本当の本当に手が込んでいて、製作陣の凄さに慄くばかりでした。&lt;/p&gt;&#xA;&lt;p&gt;あとはただ字幕がちょっとわかりにくかったし、結構「意味違くね？？」という箇所もあったと思うけれど、それはもうまあまあまあ……ってところで。映画館でぜひ〜！&lt;/p&gt;</description>
+      <guid>https://wthnote.netlify.app/posts/dr/</guid>
+      <description>&lt;p&gt;この記事を書いている現在で三回観に行ってきたのですが、あらゆるところで騒ぎすぎて&lt;strong&gt;もうブログに書かなくてもいいや&lt;/strong&gt;と思ったけどやっぱり書いておきます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>恋する惑星（4Kレストア版）</title>
-      <link>http://localhost:1313/posts/230825/</link>
+      <link>https://wthnote.netlify.app/posts/230825/</link>
       <pubDate>Fri, 25 Aug 2023 14:22:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230825/</guid>
+      <guid>https://wthnote.netlify.app/posts/230825/</guid>
       <description>&lt;p&gt;なんとなく映画は見ているんだけどブログに書く体力が全くなく、でもそうこうしているうちに忘れちゃうからやっぱり書いておこうの精神でパソコンに向かっています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>OLD JOY</title>
-      <link>http://localhost:1313/posts/230325/</link>
+      <link>https://wthnote.netlify.app/posts/230325/</link>
       <pubDate>Sat, 25 Mar 2023 07:24:41 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230325/</guid>
+      <guid>https://wthnote.netlify.app/posts/230325/</guid>
       <description>&lt;p&gt;なんとなく思い立って「OLD JOY」を観た。掠れた歌みたいにいい映画だった。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Everything Everywhere All at Once</title>
-      <link>http://localhost:1313/posts/230317/</link>
+      <link>https://wthnote.netlify.app/posts/230317/</link>
       <pubDate>Fri, 17 Mar 2023 16:35:23 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230317/</guid>
+      <guid>https://wthnote.netlify.app/posts/230317/</guid>
       <description>&lt;p&gt;観よう観ようと思いながら後回しになっていたのですが、Twitterでも勧めて頂いたので元気よく観に行ってきました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Banshees of Inisherin</title>
-      <link>http://localhost:1313/posts/230314/</link>
+      <link>https://wthnote.netlify.app/posts/230314/</link>
       <pubDate>Tue, 14 Mar 2023 19:48:06 +0900</pubDate>
-      <guid>http://localhost:1313/posts/230314/</guid>
+      <guid>https://wthnote.netlify.app/posts/230314/</guid>
       <description>&lt;p&gt;先日「イニシェリン島の精霊」を見てきた。端的にいうと「おじさんの意地の張り合い」映画だった。そんな地味なテーマで114分も持つのかと思いきや全然持つからすごかった。&lt;/p&gt;</description>
     </item>
   </channel>

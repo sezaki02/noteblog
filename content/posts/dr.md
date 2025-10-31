@@ -1,12 +1,24 @@
 ---
-title: "Mission: Impossible – Dead Reckoning Part One"
+title: Mission Impossible – Dead Reckoning Part One"
 date: 2023-08-27T08:56:37+09:00
+lastmod: 2023-08-27T08:56:37+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/deadreckoning.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
 この記事を書いている現在で三回観に行ってきたのですが、あらゆるところで騒ぎすぎて**もうブログに書かなくてもいいや**と思ったけどやっぱり書いておきます。
-
+<!--more-->
 {{< youtube fOsYm_8Rosc >}}
 
 >IMFエージェント、イーサン・ハントに課せられた究極のミッション

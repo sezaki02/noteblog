@@ -1,13 +1,24 @@
 ---
 title: "Land Shark"
 date: 2023-09-06T08:41:41+09:00
+lastmod: 2023-09-06T08:41:41+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/landshark.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 シャーケンシュタインに続きランドシャークを見ました。邦題サブタイトル「丘ジョーズの逆襲」とのことで、丘ジョーズも意味不明だし何が逆襲なのかもまったくわかりませんが、元気いっぱいでよろしい！という感じです（**もう疲れてる**）。
-
+<!--more-->
 {{< youtube 1JRnWL5Tnqg >}}
 
 >カリフォルニア沿岸で、謎の変死事故が多発する。その頃、マルコ海洋研究所のルシンダは、サメ達が水槽から消えていることに気付く。水槽と海は繋がっていない、まさか陸を！？上司のフォスター博士に伝えると、研究所の真の目的を聞かされる。それは遺伝子操作により殺人サメを開発し、軍事兵器として供給する事だった。さらに、この計画に協力するよう脅迫してくるのだった...

@@ -1,11 +1,24 @@
 ---
-title: "Sharkenstein"
+title: Sharkenstein"
 date: 2023-08-29T15:50:19+09:00
+lastmod: 2023-08-29T15:50:19+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/sharken.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
+もうあらすじだけで**具合が悪い**わけですが、ちゃんと最後まで見ました。
+<!--more-->
 {{< youtube 2VW2v4gcpds >}}
 
 >第二次世界大戦中、ヒトラーはフランケンシュタインを生物兵器化する恐るべき計画を進めていたが、実戦に投入される前にナチスドイツは敗北してしまう。

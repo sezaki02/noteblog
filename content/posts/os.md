@@ -1,13 +1,24 @@
 ---
-title: "Ouija Shark"
+title: Ouija Shark"
 date: 2023-08-28T14:15:01+09:00
+lastmod: 2023-08-28T14:15:01+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/os.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 ずっと気になっていた作品を遂に見ました！
-
+<!--more-->
 {{< youtube effVRl2LOQs >}}
 
 >ジルは旅行先のビーチで古びた木片を拾うが、それは霊界と現世を繋いでしまう魔のアイテム”ウィジャ盤”だった。

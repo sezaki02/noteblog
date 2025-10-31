@@ -2,136 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://wthnote.netlify.app/categories/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://wthnote.netlify.app/posts/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tag1/</loc>
+    <loc>https://wthnote.netlify.app/tags/tag1/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tag2/</loc>
+    <loc>https://wthnote.netlify.app/tags/tag2/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://wthnote.netlify.app/tags/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://wthnote.netlify.app/posts/test/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://wthnote.netlify.app/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%98%A0%E7%94%BB/</loc>
+    <loc>https://wthnote.netlify.app/categories/%E6%98%A0%E7%94%BB/</loc>
     <lastmod>2025-10-31T10:32:27+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fr/</loc>
+    <loc>https://wthnote.netlify.app/posts/fr/</loc>
     <lastmod>2025-05-27T15:33:58+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/godland/</loc>
+    <loc>https://wthnote.netlify.app/posts/godland/</loc>
     <lastmod>2025-03-01T13:27:47+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wallaceandgromitvmf/</loc>
+    <loc>https://wthnote.netlify.app/posts/wallaceandgromitvmf/</loc>
     <lastmod>2025-01-14T11:56:15+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/myblogmyhome/</loc>
+    <loc>https://wthnote.netlify.app/posts/myblogmyhome/</loc>
     <lastmod>2025-01-10T13:43:18+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%9B%91%E8%A8%98/</loc>
+    <loc>https://wthnote.netlify.app/categories/%E9%9B%91%E8%A8%98/</loc>
     <lastmod>2025-01-10T13:43:18+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024best/</loc>
+    <loc>https://wthnote.netlify.app/posts/2024best/</loc>
     <lastmod>2025-01-10T11:13:29+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/greatwall/</loc>
+    <loc>https://wthnote.netlify.app/posts/greatwall/</loc>
     <lastmod>2024-07-24T17:48:53+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/following/</loc>
+    <loc>https://wthnote.netlify.app/posts/following/</loc>
     <lastmod>2024-05-24T17:41:57+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dune2/</loc>
+    <loc>https://wthnote.netlify.app/posts/dune2/</loc>
     <lastmod>2024-03-25T12:57:40+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/pg/</loc>
+    <loc>https://wthnote.netlify.app/posts/ipod/</loc>
     <lastmod>2024-02-20T12:40:29+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/app/</loc>
+    <loc>https://wthnote.netlify.app/posts/pg/</loc>
+    <lastmod>2024-02-20T12:40:29+09:00</lastmod>
+  </url><url>
+    <loc>https://wthnote.netlify.app/categories/try/</loc>
+    <lastmod>2024-02-20T12:40:29+09:00</lastmod>
+  </url><url>
+    <loc>https://wthnote.netlify.app/posts/journal/</loc>
     <lastmod>2024-01-18T15:52:42+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/journal/</loc>
-    <lastmod>2024-01-18T15:52:42+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/slaughterhouserulez/</loc>
+    <loc>https://wthnote.netlify.app/posts/slaughterhouserulez/</loc>
     <lastmod>2024-01-16T13:53:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%98%A0%E7%94%BB/</loc>
-    <lastmod>2024-01-16T13:53:54+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/edgeoftomorrow/</loc>
+    <loc>https://wthnote.netlify.app/posts/edgeoftomorrow/</loc>
     <lastmod>2024-01-09T13:27:37+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/godzillaminusone/</loc>
+    <loc>https://wthnote.netlify.app/posts/godzillaminusone/</loc>
     <lastmod>2024-01-05T15:58:32+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023best90min/</loc>
+    <loc>https://wthnote.netlify.app/posts/2023best90min/</loc>
     <lastmod>2023-12-28T22:55:22+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/231225/</loc>
+    <loc>https://wthnote.netlify.app/posts/231225/</loc>
     <lastmod>2023-12-25T15:59:30+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gadget/</loc>
-    <lastmod>2023-10-30T09:17:31+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/ipod/</loc>
-    <lastmod>2023-10-30T09:17:31+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/equalizer3/</loc>
+    <loc>https://wthnote.netlify.app/posts/equalizer3/</loc>
     <lastmod>2023-10-24T15:15:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/exorcistshark/</loc>
+    <loc>https://wthnote.netlify.app/posts/exorcistshark/</loc>
     <lastmod>2023-10-23T11:40:39+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/vampire/</loc>
+    <loc>https://wthnote.netlify.app/posts/vampire/</loc>
     <lastmod>2023-10-20T15:02:39+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/snows/</loc>
+    <loc>https://wthnote.netlify.app/posts/snows/</loc>
     <lastmod>2023-09-25T11:38:06+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os2/</loc>
+    <loc>https://wthnote.netlify.app/posts/os2/</loc>
     <lastmod>2023-09-11T15:11:55+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ls/</loc>
+    <loc>https://wthnote.netlify.app/posts/ls/</loc>
     <lastmod>2023-09-06T08:41:41+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aoiharu/</loc>
+    <loc>https://wthnote.netlify.app/posts/aoiharu/</loc>
     <lastmod>2023-09-04T12:46:54+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/th/</loc>
+    <loc>https://wthnote.netlify.app/posts/th/</loc>
     <lastmod>2023-08-31T13:58:21+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ds/</loc>
+    <loc>https://wthnote.netlify.app/posts/ds/</loc>
     <lastmod>2023-08-30T11:32:36+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sharkenstein/</loc>
+    <loc>https://wthnote.netlify.app/posts/sharkenstein/</loc>
     <lastmod>2023-08-29T15:50:19+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/os/</loc>
+    <loc>https://wthnote.netlify.app/posts/os/</loc>
     <lastmod>2023-08-28T14:15:01+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dr/</loc>
+    <loc>https://wthnote.netlify.app/posts/dr/</loc>
     <lastmod>2023-08-27T08:56:37+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/230825/</loc>
+    <loc>https://wthnote.netlify.app/posts/230825/</loc>
     <lastmod>2023-08-25T14:22:39+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/230325/</loc>
+    <loc>https://wthnote.netlify.app/posts/230325/</loc>
     <lastmod>2023-03-25T07:24:41+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/230317/</loc>
+    <loc>https://wthnote.netlify.app/posts/230317/</loc>
     <lastmod>2023-03-17T16:35:23+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/230314/</loc>
+    <loc>https://wthnote.netlify.app/posts/230314/</loc>
     <lastmod>2023-03-14T19:48:06+09:00</lastmod>
   </url>
 </urlset>

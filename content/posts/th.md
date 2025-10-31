@@ -1,13 +1,24 @@
 ---
-title: "The Hunted(1995)"
+title: The Hunted(1995)"
 date: 2023-08-31T13:58:21+09:00
+lastmod: 2023-08-31T13:58:21+09:00
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/hunted.png
+# covercaption: a description of the cover image
+# images:
+#   - /img/cover.jpg
+categories:
+  - 映画
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+# math: true
 draft: false
-ShowBreadCrumbs: true
-tags: ["映画"]
 ---
-
 ヘンテコジャパンを取り扱うニンジャサムライムービーは数あれど、舞台が**名古屋**でちゃんと現地ロケしてる映画ってこの映画くらいじゃないだろうか。ジャパン＝トーキョーの価値観を脱したヘンテコ名古屋ムービーが1995年に爆誕していたとは知らなかったよ。
-
+<!--more-->
 物語のあらすじは、アメリカから名古屋に商談で来た男性が、謎の美女と出会ったことで忍者vs侍の戦いに巻き込まれていく……というもの（**雑すぎる**）。
 
 なお無意味なお色気シーンや公共交通機関での無差別襲撃シーンがあるので、抵抗がある方にはおすすめしません。
