@@ -2,7 +2,6 @@
 title: We’re All Going to the World’s Fair
 date: 2025-10-31T10:32:27+09:00
 lastmod: 2025-10-31T10:32:27+09:00
-author: ftdr
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /img/worldsfair.png

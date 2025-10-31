@@ -1,5 +1,5 @@
 theme = "dream"
-baseURL = 'https://example.org/'
+baseURL = 'https://wthnote.netlify.app/'
 defaultContentLanguage = "en"
 languageCode = "en"
 title = 'WTH'

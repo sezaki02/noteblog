@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mission Impossible – The Final Reckoning | WTH</title>
+
+    
+
+<link rel="canonical" href="https://wthnote.netlify.app/posts/fr/" />
+
+
+
+<meta name="author" content="ftdr" />
+<meta name="description" content="いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。
+" />
+
+
+<meta name="keywords" content="Tag1,Tag2">
+
+
+
+<meta name="generator" content="Hugo 0.150.0">
+
+
+<meta property="og:url" content="https://wthnote.netlify.app/posts/fr/">
+  <meta property="og:site_name" content="WTH">
+  <meta property="og:title" content="Mission Impossible – The Final Reckoning">
+  <meta property="og:description" content="いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-05-27T15:33:58+09:00">
+    <meta property="article:modified_time" content="2025-05-27T15:33:58+09:00">
+    <meta property="article:tag" content="Tag1">
+    <meta property="article:tag" content="Tag2">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Mission Impossible – The Final Reckoning">
+  <meta name="twitter:description" content="いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。">
+
+
+
+
+  
+
+<link rel="stylesheet" href="/css/output.min.css" />
+
+
+
+
+    
+
+
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js" integrity="sha256-4EHxtjnR5rL8JzbY12OKQJr81ESm7JBEb49ORPo29AY=" crossorigin="anonymous"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded-full">
+          <img src="/img/avatar.png" alt="WTH" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="https://wthnote.netlify.app/" class="text-lg font-semibold cursor-pointer">
+          WTH
+        </a>
+        
+        
+      </div>
+      
+    </section>
+
+    
+    
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+<div class="lg:grid lg:grid-cols-4 gap-4 mt-4 px-4">
+  <div class="hidden lg:block">
+    
+  </div>
+
+  <div class="lg:col-span-2">
+    <article class="mx-auto prose prose-quoteless dark:prose-invert" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+      
+  <meta itemprop="name" content="Mission Impossible – The Final Reckoning">
+  <meta itemprop="description" content="いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。">
+  <meta itemprop="datePublished" content="2025-05-27T15:33:58+09:00">
+  <meta itemprop="dateModified" content="2025-05-27T15:33:58+09:00">
+  <meta itemprop="wordCount" content="71">
+  <meta itemprop="keywords" content="Tag1,Tag2">
+
+      <header>
+        <h1 itemprop="headline">Mission Impossible – The Final Reckoning</h1>
+        <p class="text-sm">
+          
+            Tuesday, May 27, 2025
+          
+
+          | <span>1 minute read</span>
+
+          
+          | <span>Updated at
+            
+              Tuesday, May 27, 2025
+            </span>
+          
+        </p>
+
+        
+        <div class="flex justify-between">
+          
+            <div class="flex items-center">
+  
+  <span>@</span>
+  
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  
+    <span itemprop="name">ftdr</span>
+  
+  </span>
+</div>
+
+          
+
+          <div class="flex items-center gap-2">
+  
+  
+
+  
+  
+  
+  
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://x.com/intent/post?text=Mission%20Impossible%20%e2%80%93%20The%20Final%20Reckoning&amp;url=https://wthnote.netlify.app/posts/fr/" target="_blank" rel="noopener noreferrer"
+      title="Share on X">
+      <ion-icon class="group-hover:text-primary-content" name="logo-x"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://facebook.com/sharer/sharer.php?u=https://wthnote.netlify.app/posts/fr/" target="_blank" rel="noopener noreferrer"
+      title="Share on Facebook">
+      <ion-icon class="group-hover:text-primary-content" name="logo-facebook"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://wa.me/?text=Mission%20Impossible%20%e2%80%93%20The%20Final%20Reckoning%20https://wthnote.netlify.app/posts/fr/" target="_blank" rel="noopener noreferrer"
+      title="Share on WhatsApp">
+      <ion-icon class="group-hover:text-primary-content" name="logo-whatsapp"></ion-icon>
+    </a>
+  
+
+  
+  
+</div>
+
+        </div>
+      </header>
+
+      <section id="dream-single-post-content" itemprop="articleBody">
+        
+
+        <p>いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。</p>
+<p>以下、本編のネタバレを含みます。執筆時点では劇場パンフレットを読んでいません。色々認識の違いがあるかもしれません。そういう状態での感想文です。</p>
+
+
+
+  <blockquote>
+    <p>前作「ミッション：インポッシブル　デッドレコニング」とあわせて2部作として製作され、「デッドレコニング」から続く物語が展開。前作のラストで世界の命運を握る鍵を手にしたイーサン・ハントと、その鍵によって導かれていくイーサンの運命が描かれる。また、これまでほとんど語られてこなかったイーサンの過去などが明かされる。シリーズおなじみとなったトム・クルーズ本人によるスタントシーンも健在で、今作では飛び回る小型プロペラ機にしがみつく空中スタントなどが見どころとなる。</p>
+  </blockquote>
+
+<p>出典：映画.com</p>
+<p>前作デッド・レコニングでは、立ちはだかる謎の敵ガブリエルから無事鍵を取り戻したイーサンとベンジーが次の作戦に移るためその場を離れるところで終わりました。</p>
+<p>今回はいったいどのタイミングから始まるんだろうかと思ったら、どうやらそこからしばらく時間が経った模様。イーサン、ベンジー、ルーサーが久々らしい再会を果たし「あれから色々あったんだな」と思わせます。</p>
+<h2 id="ルーサー">ルーサー！！！</h2>
+<p>ここでびっくりしたのが、なんかルーサーが急に（急だと思うんだけど……）病気を患い余命幾許もないみたいな状況になっていたことです。いや！　マジで？　ルーサー！　いくら予告編のモノローグでちらつかせていたとはいえ、<strong>死なないでくれ〜〜〜〜！！！</strong></p>
+<p>しかしイーサンを憎むガブリエルの「イーサンにとっての大切な人を奪う」という強い意志と「エンティティを食い止めるシステムを作れるのはルーサーだけ」という事実により、最悪の方面へとシナリオは進んでいきます。</p>
+<p>ガブリエルに嵌められ、核爆弾とともに閉じ込められるルーサー。解除しなければ街ごと吹き飛ぶほどの被害が出る。ルーサーの腕を持ってすれば被害を最小限に食い止めることはできるが、ルーサーが助かることはできない。</p>
+<p>なんとかルーサーを助けたいイーサンを前に、ルーサーはイーサンに自分のやるべきことをやるよう諭します。涙を飲んでその場を離れるイーサン。悲しいなあ……。</p>
+<p>ルーサーの退場後、イーサンは以前に病床のルーサーと交わした会話を思い出します。<br>
+<strong>I have no regrets neither should you.</strong><br>
+字幕ではたしか「俺は後悔しない　君もそうなれ」的に表現されていたかと思います。イーサンはその思いを胸にエンティティ打倒をあらためて心に誓うのですが……</p>
+<p>このシーンというかルーサーのセリフ、予告編でも取り上げられていたのでいったいどういう状況で発せられるのかめちゃくちゃ気になっていました。本編を見た感想としては「意外」でしたね。<br>
+ルーサーの生き方やイーサンとルーサーの関係ってそれこそ初回作からずっと積み上げてきたものがあって、もう何を言ってもこちらも「<strong>わかる</strong>」ものではあるので、それを殊更に語り直す必要って確かにないんですけど。自分は予告編を見てもっと具体的なシーンを想像していたんですよね。「この問題を解決するのには困難があるけど、自分や仲間を信じて正しいと思うことをやる、そのことに後悔はない」みたいな、もっと具体的な文脈（総決算としての病床での吐露ではなく）の中で語られるのかな？　と思っていたので、いやまあ「見たいと思ったものが見れなかった」ヒステリーにはなってしまうし、あれで十分なのだろうとは思うのですが。その後もモノローグで色々語ってくれるし。でも正直ルーサーを退場させる必要性がよくわからなかったです。個人的には。</p>
+<h2 id="ベンジーがめちゃくちゃ良かった">ベンジーがめちゃくちゃ良かった</h2>
+<p>対してベンジーにはものすごく物語が用意されていたのでそれがとても良かったな〜！　と思いました。ベンジーは３での初登場以来、内勤エンジニアからフィールドエージェントへと著しい成長を遂げたキャラクターでもあり（好き好きはあれど）最も観客の心を掴んできたキャラクターだと思います。あのベンジーが今やイーサンハントの「友達」として肩を並べるようになったのみならず、イーサンから「自分の代わりに」とチームリーダーを任されるほどの存在になりました。すごいよ！　ベンジー……</p>
+<p>今作ではイーサンとベンジーの完璧な「阿吽の呼吸」が描かれていて良かったです。このあたりはデッド・レコニングでもかなり丁寧に描かれていたと思うのですが、この二人の信頼関係の総仕上げとしてファイナル・レコニングは最高だったと思います。</p>
+<h2 id="ダンローの存在感">ダンローの存在感</h2>
+<p>今作は１でアラスカ送りとなったCIA職員・ウィリアム・ダンローが長い時を経て再登場を果たします。<strong>ダンロー！！　元気そうで良かった！</strong>　アラスカの地で愛する人にも出会えたとのことで何よりです。しかしそれ以上にロルフ・サクソンの演技力が凄くてですね……とても１ぶりとは思えない馴染み方、見えなかっただけで確かにこの世界にずっと存在し続けていたことを知らしめてくる存在感でした。１で起きたことについて、そこから今日に至るまでの人生、ダンローが何を思いどうやって生きてきたか。そう言うところに対するロルフ・サクソンの理解と表現力ですよね。それが素晴らしくてですね〜〜〜良かったです。泣きそうだった。</p>
+<h2 id="ブリッグスの出自設定必要だったのか">ブリッグスの出自設定必要だったのか？</h2>
+<p>ここからは少しアレな話題になってしまうのですが、前作から登場したCIAの「<strong>すぐ銃ぶっ放すマン</strong>」ことジャスパー・ブリッグスくん。そのファミリーネームからドラマ「スパイ大作戦」の初代リーダーことダン・ブリッグスの親族か何かだと思われていましたが、ここにきて実はジム・フェルプスの息子であることが判明。しかも本名もブリッグスではなくてジム・フェルプスと親父と同名とのこと。<strong>う、ウソだろ〜〜！？</strong>　見ている側に突如として要らん衝撃を与えてきたなどの大活躍がありました。</p>
+<p>まあ確かにデッド・レコニングでこのくだりは伏線が張られていたのですが。そんなわけでなんやかんやイーサンのことを恨んでいるみたいなことを言うシーン（雑すぎ）が披露されるのですが、ブリッグスがこの問題に向き合うシーンはそれ以外に特になく、この因縁が最終的にどうなったのかと言うと世界を救ったイーサンに感銘を受け（※印象です）ブリッグスは黙って手を差し出します。二人は握手を交わし和解。<br>
+いやまあ、良かったねって感じではあるんですが、ここに至るまでのブリッグスの感情の変化とかが特に描かれないので「イーサンのことを勝手に恨んで勝手に許して勝手に自分の感情を解決した人」にしか見えず、マジでこのジムの息子設定なんだったのかよくわかりません。</p>
+<h2 id="カリスマヴィラン概念">カリスマヴィラン（概念）</h2>
+<p>これ個人的に見ていて「ガブリエル役：イーサイ・モラレス」っていうか「<strong>カリスマヴィラン（概念）役のガブリエルくん</strong>」という印象が先に来すぎており、ガブリエルって結局何者だったんだろ……という気持ちで取り残されてはいます。イーサイ・モラレスのオーラと演技力でガブリエルの謎めいたカリスマ性みたいなのはものすごく伝わってきたのですが、物語がその内訳を説明しないから最後まで「謎めいたカリスマ（<strong>面白</strong>）ヴィラン」で終わっていったのが心残りです。</p>
+<h2 id="アクションありきの世界">アクションありきの世界</h2>
+<p>今回もデッド・レコニングやそれ以前の過去作同様、トムが体を張っていてこれは本当に物凄いことです。ましてや還暦すぎてやれることではない。トム・クルーズだからこそできる、トム・クルーズにしかできないこと。我々は常にその行いに圧倒され、腰を抜かし続けていられるありがたさ。「観客にとっての最高の映画体験」を常に追い求め続けるトム・クルーズという逸材、本当にこのレベルの人間、地球が滅亡してもう一回やり直しても出てこないんじゃないかと思っています。</p>
+<p>しかし「体を張る」ということ、それが「映画」という複合要素の集合体の中でどれだけ真価を発揮できるのかと言ったら、そういう身体性以外の部分もやはり重要になってくるのではないのかと思っています。それで言うとファイナル・レコニングは全体の中でアクションシーンだけが良くも悪くも浮き上がって見え、それ以外の要素が十分ではないように思いました。</p>
+<p>でもこれほんとコロナ禍とかストライキとかロケ地の都合とかキャストの予定とか色んな状況が絡んできて、撮影が止まっている間に「変化」せざるを得なかったことはすごく大きかったんだろうなと思って、それだけに惜しいな〜〜〜という気持ちです。</p>
+<p>このファイナル・レコニングを製作陣がどのように評価しているにせよ、一観客として自分が思ったのは「トム・クルーズとクリストファー・マッカリーの二人三脚ってめちゃくちゃ危ういバランスの上で成り立ってたんだな」ということでした。どっちに偏ってもおそらくうまくいかないのかな〜というか。</p>
+<p>アクションを前面に出すのは最重要事項として、じゃあマッカリー監督の考える「物語」としての及第点は今回どこにあったのか？　デッド・レコニングでもヘイロージャンプありきの制作だったわけですが、ちゃんとここでは物語が機能してアクションにも説得性があったと思います。ファイナルレコニングのアクションからは、そうしたものがよくわかりませんでした。</p>
+<p>何度も言うのですがトムのアクションは本当に素晴らしくて、私は割と見ながら「これもう<strong>ジャッキー（チェン）だな</strong>」とか思っていた（ベスト・キッド新作の予告編も流れたし）んですが、それくらい自分自身が映画の「肉体」になっているわけですよ。</p>
+<p>そこにエンタメはあるんです、確かに。</p>
+<p>でもミッション・インポッシブルはそれだけでいいのか？　いやそれだけでもいいんですが、デッド・レコニングから続いてきた「AIという敵とイーサン・ハントの人生と選択」という重いテーマが今ひとつ「頭カラッポで楽しめる映画」方面にも振り切らせてくれない。このバランスをどう取るのかが今回はとても難しかっただろうなと、そういうのは感じました。</p>
+<h2 id="アクションは派手だが映像はそうでもない">アクションは派手だが映像はそうでもない</h2>
+<p>これ、なんですかね〜〜〜自分は撮影監督のフレイザー・タガートの撮ったものをたくさん知っているわけではないのですが、この人もまたマッカリー監督の「物語」が万全の状態であればこそ一緒に真価を発揮できるタイプの絵を持ってる人なんじゃないかなと、それはなんか思いました。</p>
+<p>ミッションのシリーズってこれまで色んな監督が自分の強烈な個性で撮ってきて、撮影もそれなりに絵面が強いと言うかぱっと見の個性がある人が撮ってきたと思うんですけど、多分マッカリー監督とフレイザー・タガートのコンビってそうじゃないと思う（すげ〜フワッとしてる感想）んですよね。それはキャラクターの内面だったりリアリティであったり、ミッションにおいてはある意味「地に足がついている」描き方をするのに長けている人々だという印象を受けたので、やっぱりその意味で物語がついてこないとアクション自体が派手でもなんか絵面が平坦に感じてしまい……</p>
+<p>もちろん見ていて「わかりにくいな」などのストレスを感じることは全くなかったので、なんというか「ちゃんとしてた」とは思います。すごい真面目な絵ですよね。でもそれがまたアクションとうまく噛み合ってない感じがしました。一歩間違うと「トム・クルーズが頑張っているドキュメンタリー」になってしまうスレスレですよね。なんでそういう面が出てしまうのかというと、たぶん物語としてどこにメリハリを持って来ればいいのか、苦心したんじゃないかなと……もうこれ映画を見ただけの人間が勝手な思い込みで書いてますから、本当のところは全くわかりませんが……。</p>
+<h2 id="色彩設計の素晴らしさと潜水艦のスリル">色彩設計の素晴らしさと潜水艦のスリル</h2>
+<p>色がね！ やっぱり今回もめちゃくちゃ綺麗でしたね。特に海中の青とランプの赤、深海の寒々しさと沈んだ潜水艦の沈黙（謎ポエムになってきたな？）イーサンが潜水艦に辿り着いて入るまでの全景、<strong>こんなんもう神話だよ</strong>っていう感動がありましたね。</p>
+<p>艦内では水中での単独行動というシーンで会話もありませんが、緊迫感があって良かったです。イーサンが単独水の中で頑張るっていうのはローグ・ネイションでもやりましたが、やっぱりうまいですね。なんですかね〜このイーサンハントと水流があればそれだけでドラマにしてしまう技量……</p>
+<p>でもパンツ一枚の姿でアラスカの海中で心停止するシーンは予告編を見て「さすがに精神世界の話だろう」と思っていたのですが、どうにも現実だったのでそれはとてもびっくりしました。なんで生きてるの？（答え：イーサン・ハントだから）</p>
+<p>あと潜水艦といえばオハイオの乗組員の皆さんはめちゃくちゃいいキャラで良かったです。出番はそれほど多くはなかったけれどこの短時間で強い印象を残すキャラ作り、さすがとしか言いようがない。</p>
+<h2 id="続編スピンオフまだまだやってくれよな">続編、スピンオフ、まだまだやってくれよな</h2>
+<p>ともあれイーサン・ハントも無事生きていることだし、デッド・レコニングからの新キャラの活躍もまだまだ見たいぞ！　と思わせてくれる内容だったので、ぜひ遠からずまたどんな形でも、ミッションの世界を続けていってほしいです。いや〜でも終わったんだね、ついに……。</p>
+<p>すごい色々書いたけどやっぱりこれだけは言いたい！</p>
+<p><strong>ありがとうトム！</strong></p>
+<p>同じ時代に生きていることができて映画ファンは本当に嬉しいです。これからもまだまだずっと走り続けてくれ〜！！！</p>
+
+        
+      </section>
+
+      
+
+      
+    </article>
+  </div>
+
+  <div
+    x-data="tocHighlighter()"
+    @scroll.window="debouncedScroll"
+    class="hidden lg:flex lg:flex-col lg:items-end"
+  >
+    
+  </div>
+</div>
+
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>© 2025 WTH</p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>© 2025 WTH</p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme =  null 
+  window.darkTheme =  null 
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+    
+  
+  <script src="/js/grid.min.js"></script>
+
+
+
+
+  
+
+<script src="/js/main.min.js"></script>
+
+    
+
+
+
+
+
+
+
+  
+
+<script src="/js/toc.min.js"></script>
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+  </body>
+</html>

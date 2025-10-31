@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psycho Goreman | WTH</title>
+
+    
+
+<link rel="canonical" href="https://wthnote.netlify.app/posts/pg/" />
+
+
+
+<meta name="author" content="ftdr" />
+<meta name="description" content="この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。
+" />
+
+
+<meta name="keywords" content="Tag1,Tag2">
+
+
+
+<meta name="generator" content="Hugo 0.150.0">
+
+
+<meta property="og:url" content="https://wthnote.netlify.app/posts/pg/">
+  <meta property="og:site_name" content="WTH">
+  <meta property="og:title" content="Psycho Goreman">
+  <meta property="og:description" content="この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-02-20T12:40:29+09:00">
+    <meta property="article:modified_time" content="2024-02-20T12:40:29+09:00">
+    <meta property="article:tag" content="Tag1">
+    <meta property="article:tag" content="Tag2">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Psycho Goreman">
+  <meta name="twitter:description" content="この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。">
+
+
+
+
+  
+
+<link rel="stylesheet" href="/css/output.min.css" />
+
+
+
+
+    
+
+
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js" integrity="sha256-4EHxtjnR5rL8JzbY12OKQJr81ESm7JBEb49ORPo29AY=" crossorigin="anonymous"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav class="mt-4 lg:mt-8 py-4">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:avatar-online" @click="flip = !flip" title="Flip it!">
+        <div class="h-10 rounded-full">
+          <img src="/img/avatar.png" alt="WTH" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="https://wthnote.netlify.app/" class="text-lg font-semibold cursor-pointer">
+          WTH
+        </a>
+        
+        
+      </div>
+      
+    </section>
+
+    
+    
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-1 shadow-md">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="Archives">
+    <ion-icon name="archive"></ion-icon>
+    Archives
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="All Categories">
+    <ion-icon name="grid"></ion-icon>
+    All Categories
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="All Tags">
+    <ion-icon name="pricetags"></ion-icon>
+    All Tags
+  </a>
+</li>
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/posts" title="Archives">
+  <ion-icon class="group-hover:text-primary-content" name="archive"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/categories" title="All Categories">
+  <ion-icon class="group-hover:text-primary-content" name="grid"></ion-icon>
+</a>
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/tags" title="All Tags">
+  <ion-icon class="group-hover:text-primary-content" name="pricetags"></ion-icon>
+</a>
+
+
+      
+
+      
+
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+<div class="lg:grid lg:grid-cols-4 gap-4 mt-4 px-4">
+  <div class="hidden lg:block">
+    
+  </div>
+
+  <div class="lg:col-span-2">
+    <article class="mx-auto prose prose-quoteless dark:prose-invert" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+      
+  <meta itemprop="name" content="Psycho Goreman">
+  <meta itemprop="description" content="この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。">
+  <meta itemprop="datePublished" content="2024-02-20T12:40:29+09:00">
+  <meta itemprop="dateModified" content="2024-02-20T12:40:29+09:00">
+  <meta itemprop="wordCount" content="25">
+  <meta itemprop="keywords" content="Tag1,Tag2">
+
+      <header>
+        <h1 itemprop="headline">Psycho Goreman</h1>
+        <p class="text-sm">
+          
+            Tuesday, Feb 20, 2024
+          
+
+          | <span>1 minute read</span>
+
+          
+          | <span>Updated at
+            
+              Tuesday, Feb 20, 2024
+            </span>
+          
+        </p>
+
+        
+        <div class="flex justify-between">
+          
+            <div class="flex items-center">
+  
+  <span>@</span>
+  
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  
+    <span itemprop="name">ftdr</span>
+  
+  </span>
+</div>
+
+          
+
+          <div class="flex items-center gap-2">
+  
+  
+
+  
+  
+  
+  
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://x.com/intent/post?text=Psycho%20Goreman&amp;url=https://wthnote.netlify.app/posts/pg/" target="_blank" rel="noopener noreferrer"
+      title="Share on X">
+      <ion-icon class="group-hover:text-primary-content" name="logo-x"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://facebook.com/sharer/sharer.php?u=https://wthnote.netlify.app/posts/pg/" target="_blank" rel="noopener noreferrer"
+      title="Share on Facebook">
+      <ion-icon class="group-hover:text-primary-content" name="logo-facebook"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://wa.me/?text=Psycho%20Goreman%20https://wthnote.netlify.app/posts/pg/" target="_blank" rel="noopener noreferrer"
+      title="Share on WhatsApp">
+      <ion-icon class="group-hover:text-primary-content" name="logo-whatsapp"></ion-icon>
+    </a>
+  
+
+  
+  
+</div>
+
+        </div>
+      </header>
+
+      <section id="dream-single-post-content" itemprop="articleBody">
+        
+
+        <p>この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kgyPGGLYnKs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+
+
+
+  <blockquote>
+    <p>太古より庭に埋められていた銀河の破壊者＜残虐宇宙人＞は、少女ミミ（8歳）により偶然掘り当てられ封印を解かれた。だが、すかさず容赦ない殺戮の限りを尽くすはずが、極悪な性格のミミに自身を操ることが可能な宝石を奪われていた。かくして無慈悲にして計り知れぬ力を誇る暗黒の覇者は、サイコ・ゴアマンと名付けられ少女にたいへんな仕打ちを受けることとなる。一方、残虐宇宙人の覚醒を察知したガイガックス星の正義の勢力＜テンプル騎士団＞は宇宙会議を開催、最強怪人パンドラを地球に送り込む――。</p>
+  </blockquote>
+
+<p>出典：<a href="http://pg-jp.com/" target="_blank">公式サイト</a>
+</p>
+<h2 id="こんな特撮はイヤだ-カナダでb級映画になる">こんな特撮はイヤだ① カナダでB級映画になる</h2>
+<p>自分は特撮に詳しくないのですが、それでもわかる「特撮」ぶりでした。宇宙人はCGではなく人が着て動くタイプのやつでしたし、PGの仲間たちがPGの招集に応じて地球に降り立ったシーンとかも、リーダーを筆頭に両脇を他のメンバーがやや後ろで控える三角形の配置でこう……「特撮で見たやつ！！」って感じでよかったです。</p>
+<p>またこの仲間の一人に「ウィッチマスター」という宇宙人がいるのですが、この人が日本語を話すことなどからも、監督はかなりジャパンの特撮がお好きなんだと思われます。</p>
+<p>あと打倒PGを目指す怪人パンドラの造形が、個人的には<a href="https://digimon.net/reference/detail.php?directory_name=angewomon" target="_blank">この人</a>
+を思い出させる感じだったんだけどまったく関係ないですかね。そのへんも各自視聴の上判断して頂きたいところではあるのですが……</p>
+<h2 id="こんな特撮はイヤだ-極悪非道の少女８歳に虐げられる">こんな特撮はイヤだ② 極悪非道の少女（８歳）に虐げられる</h2>
+<p>ミミです。この映画は彼女に尽きると言っても過言ではないですね。兄を虐げ、気になる男子には気味悪がられ、同じテンションで残虐宇宙人をも従える。とにかく絶対王者を自負してやまないミミのキレっぷりは最高にいいです。十字架の前に跪いて祈っているかと思いきや、神に対して「用無し」呼ばわりとか、こんなパンクな八歳になりたかったよ（なお友達はいない模様）。</p>
+<p>ミミを演じるニタ = ジョゼ・ハンナくんは本作が映画初出・主演だそう（芸能活動自体は三歳から）ですが、とてもそうは思えない貫禄と圧がすごいです。初映画でこれだけすごいともはや「<strong>素なのでは</strong>？」とすら思う。</p>
+<h2 id="こんな特撮はイヤだ-少年少女宇宙人脳みそによるバンドのmvが流れ出す">こんな特撮はイヤだ③ 少年少女、宇宙人、脳みそによるバンドのMVが流れ出す</h2>
+<p>これね、なんか見てたら突然ミュージックビデオが始まって全然意味わかんないんですけど曲がめちゃくちゃかっこよくて笑うしかないです。ちょうど予告編のサムネがMV中（？）ですね。曲名は「Frig off!(クソ喰らえ！)」。歌詞も「私が一番」「上司みたいに指図するな」等、キレ散らかしていて笑います。これが普通にめちゃくちゃかっこいい名曲なのでタチが悪い。</p>
+<p>「<strong>低予算カオス映画の音楽がむだに名曲</strong>」というのはB級映画あるあるにしてB級映画がカルト的人気を博すようになる要因あるあるですが、この作品に関してはそのへんは狙って作ってる感も。</p>
+<p>とにかくそんな謎名曲を極悪少女とその兄、宇宙人、宇宙人によって脳みそに姿を変えられてしまった少年（！）の四名によるバンドでお届けします。<strong>いったい何を見せられているんだろうか？</strong></p>
+<h2 id="こんな特撮はイヤだ-ハッピーエンドは物足りない">こんな特撮はイヤだ④ ハッピーエンドは物足りない</h2>
+<p>そんなこんなで最終的にはハートフルストーリーの方向にまとまっていく（<strong>マジで</strong>）のですが、単なるハッピーエンドでは終わらせないのがサイコ・ゴアマンでした。映画に対して「ずっと最悪で面白い」という感想になってしまう作品がやっぱり好きだな……と再確認させられましたね。80年代、SF、特撮、<strong>ゴア表現</strong> と聞いて気になる方はぜひ。</p>
+
+        
+      </section>
+
+      
+
+      
+    </article>
+  </div>
+
+  <div
+    x-data="tocHighlighter()"
+    @scroll.window="debouncedScroll"
+    class="hidden lg:flex lg:flex-col lg:items-end"
+  >
+    
+  </div>
+</div>
+
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>© 2025 WTH</p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>© 2025 WTH</p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'sunny', status: 'n' },
+    { name: 'moon', status: 'y' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme =  null 
+  window.darkTheme =  null 
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+    
+  
+  <script src="/js/grid.min.js"></script>
+
+
+
+
+  
+
+<script src="/js/main.min.js"></script>
+
+    
+
+
+
+
+
+
+
+  
+
+<script src="/js/toc.min.js"></script>
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js" integrity="sha256-/IFmi82bIhdYWctu0UddSlJqpnzWm7Vh2C4CM32wF/k=" crossorigin="anonymous"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js" integrity="sha256-mr7eJMX3VC3F7G32mk4oWp1C6a2tlMYxUdptfT7uKI8=" crossorigin="anonymous"></script>
+  </body>
+</html>
