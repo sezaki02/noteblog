@@ -2,220 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>映画 on WTH</title>
-    <link>https://wthnote.netlify.app/categories/%E6%98%A0%E7%94%BB/</link>
+    <link>http://localhost:1313/categories/%E6%98%A0%E7%94%BB/</link>
     <description>Recent content in 映画 on WTH</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 31 Oct 2025 10:32:27 +0900</lastBuildDate>
-    <atom:link href="https://wthnote.netlify.app/categories/%E6%98%A0%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E6%98%A0%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We’re All Going to the World’s Fair</title>
-      <link>https://wthnote.netlify.app/posts/worldsfair/</link>
+      <link>http://localhost:1313/posts/worldsfair/</link>
       <pubDate>Fri, 31 Oct 2025 10:32:27 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/worldsfair/</guid>
+      <guid>http://localhost:1313/posts/worldsfair/</guid>
       <description>&lt;p&gt;思ってたのと違ったけどめちゃくちゃ面白かったです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mission Impossible – The Final Reckoning</title>
-      <link>https://wthnote.netlify.app/posts/fr/</link>
+      <link>http://localhost:1313/posts/fr/</link>
       <pubDate>Tue, 27 May 2025 15:33:58 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/fr/</guid>
+      <guid>http://localhost:1313/posts/fr/</guid>
       <description>&lt;p&gt;いや、ありがとうございました。約30年の長きに渡り世界のために走り続けたイーサン・ハントの物語に一区切りがついた。その生き様を映画館のスクリーン、ひいてはIMAXで鑑賞できたことに感謝しています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>GODLAND</title>
-      <link>https://wthnote.netlify.app/posts/godland/</link>
+      <link>http://localhost:1313/posts/godland/</link>
       <pubDate>Sat, 01 Mar 2025 13:27:47 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/godland/</guid>
+      <guid>http://localhost:1313/posts/godland/</guid>
       <description>&lt;p&gt;ゴッドランドを見ました。書いとかないと忘れるので取り急ぎ観たメモを！&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wallace &amp; Gromit Vengeance Most Fowl</title>
-      <link>https://wthnote.netlify.app/posts/wallaceandgromitvmf/</link>
+      <link>http://localhost:1313/posts/wallaceandgromitvmf/</link>
       <pubDate>Tue, 14 Jan 2025 11:56:15 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/wallaceandgromitvmf/</guid>
+      <guid>http://localhost:1313/posts/wallaceandgromitvmf/</guid>
       <description>&lt;p&gt;これのためだけにわざわざNetflixに加入した一月です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>配信で見たベスト10・2024</title>
-      <link>https://wthnote.netlify.app/posts/2024best/</link>
+      <link>http://localhost:1313/posts/2024best/</link>
       <pubDate>Fri, 10 Jan 2025 11:13:29 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/2024best/</guid>
+      <guid>http://localhost:1313/posts/2024best/</guid>
       <description>&lt;p&gt;これ2024年内にやれなかったのだいぶ「あーあ」って感じなんですけど（？）とりあえずまとめておきます。どれも面白い・素敵な作品なので「今年は家でなに見よっかな〜」という方の参考になれば幸いです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Great Wall</title>
-      <link>https://wthnote.netlify.app/posts/greatwall/</link>
+      <link>http://localhost:1313/posts/greatwall/</link>
       <pubDate>Wed, 24 Jul 2024 17:48:53 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/greatwall/</guid>
+      <guid>http://localhost:1313/posts/greatwall/</guid>
       <description>&lt;p&gt;トンチキ映画を勧められてすぐに見てしまうほどには暑いなあと思う今日この頃ですが、いかがお過ごしでしょうか。私は最近映画「グレートウォール」を見てだいぶ面白かったので、ここに感想を記録しておきたいと思います。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Following</title>
-      <link>https://wthnote.netlify.app/posts/following/</link>
+      <link>http://localhost:1313/posts/following/</link>
       <pubDate>Fri, 24 May 2024 17:41:57 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/following/</guid>
+      <guid>http://localhost:1313/posts/following/</guid>
       <description>&lt;p&gt;フォロウィングHDレストア版です。来月からアマプラ見放題に来るとはいえ、映画館で見ておきたいんだよ俺は！ということで滑り込み鑑賞してきました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>DUNE PART 2</title>
-      <link>https://wthnote.netlify.app/posts/dune2/</link>
+      <link>http://localhost:1313/posts/dune2/</link>
       <pubDate>Mon, 25 Mar 2024 12:57:40 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/dune2/</guid>
+      <guid>http://localhost:1313/posts/dune2/</guid>
       <description>&lt;p&gt;観てきましたね。以下ネタバレを含みます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Psycho Goreman</title>
-      <link>https://wthnote.netlify.app/posts/pg/</link>
+      <link>http://localhost:1313/posts/pg/</link>
       <pubDate>Tue, 20 Feb 2024 12:40:29 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/pg/</guid>
+      <guid>http://localhost:1313/posts/pg/</guid>
       <description>&lt;p&gt;この「サイコ・ゴアマン」というタイトルを目にした時からすでに好きだったとしか言えないのですが、見たらやっぱり好きでしたね。シネマート新宿で上映されたタイトルというのも個人的にはポイントが高いです（シネマート新宿に信頼を寄せているタイプのオタク）。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Slaughterhouse Rulez</title>
-      <link>https://wthnote.netlify.app/posts/slaughterhouserulez/</link>
+      <link>http://localhost:1313/posts/slaughterhouserulez/</link>
       <pubDate>Tue, 16 Jan 2024 13:53:54 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/slaughterhouserulez/</guid>
+      <guid>http://localhost:1313/posts/slaughterhouserulez/</guid>
       <description>&lt;p&gt;スローターハウスルールズを観ました。サイダーハウスルールのタイトルパロディにしては最悪すぎんか？と爆笑していたのですが「サイダーハウスルール」の原作者アーヴィングは「スローターハウス5」の作者ヴォガネットの授業を受講していたと知り、そんな因果が……とさらに笑っています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Edge of Tomorrow</title>
-      <link>https://wthnote.netlify.app/posts/edgeoftomorrow/</link>
+      <link>http://localhost:1313/posts/edgeoftomorrow/</link>
       <pubDate>Tue, 09 Jan 2024 13:27:37 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/edgeoftomorrow/</guid>
+      <guid>http://localhost:1313/posts/edgeoftomorrow/</guid>
       <description>&lt;p&gt;&lt;em&gt;世界は繰り返さないものだ。誰もが同じ恐怖と戦っている。たったひとつの命を敵の前に晒している。&lt;/em&gt;（桜坂洋. All You Need is Kill. 集英社 2012）&lt;/p&gt;</description>
     </item>
     <item>
       <title>Godzilla -1.0</title>
-      <link>https://wthnote.netlify.app/posts/godzillaminusone/</link>
+      <link>http://localhost:1313/posts/godzillaminusone/</link>
       <pubDate>Fri, 05 Jan 2024 15:58:32 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/godzillaminusone/</guid>
+      <guid>http://localhost:1313/posts/godzillaminusone/</guid>
       <description>&lt;p&gt;024年一本目はエクスペを待つか首かゴジラか悩んだ結果、ゴジラを鑑賞してきました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>今年見た旧作5選・2023</title>
-      <link>https://wthnote.netlify.app/posts/2023best90min/</link>
+      <link>http://localhost:1313/posts/2023best90min/</link>
       <pubDate>Thu, 28 Dec 2023 22:55:22 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/2023best90min/</guid>
+      <guid>http://localhost:1313/posts/2023best90min/</guid>
       <description>&lt;p&gt;今年映画館で見た３選はてがろぐでやったので、とりあえず今年見た旧作特に好きな5本（90分以上）を記録しておきます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Cow</title>
-      <link>https://wthnote.netlify.app/posts/231225/</link>
+      <link>http://localhost:1313/posts/231225/</link>
       <pubDate>Mon, 25 Dec 2023 15:59:30 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/231225/</guid>
+      <guid>http://localhost:1313/posts/231225/</guid>
       <description>&lt;p&gt;ライカート監督だ！わーい！というだけで観に行ったら予期せぬトビージョーンズの登場に萌えを拗らせすぎて頭痛がすごかったです（終わり）&lt;/p&gt;</description>
     </item>
     <item>
       <title>Equalizer 3</title>
-      <link>https://wthnote.netlify.app/posts/equalizer3/</link>
+      <link>http://localhost:1313/posts/equalizer3/</link>
       <pubDate>Tue, 24 Oct 2023 15:15:54 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/equalizer3/</guid>
+      <guid>http://localhost:1313/posts/equalizer3/</guid>
       <description>&lt;p&gt;やっと見てきました。今日まで人様の感想・ネタバレを踏まずに暮らしてきましたが、結果的にとても楽しむことができました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shark Exorcist&#34;</title>
-      <link>https://wthnote.netlify.app/posts/exorcistshark/</link>
+      <link>http://localhost:1313/posts/exorcistshark/</link>
       <pubDate>Mon, 23 Oct 2023 11:40:39 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/exorcistshark/</guid>
+      <guid>http://localhost:1313/posts/exorcistshark/</guid>
       <description>&lt;p&gt;ヴァチカンのエクソシストの配信が始まっていますね。早く見放題に来てほしいなあと思っている今日この頃です。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview with the Vampire</title>
-      <link>https://wthnote.netlify.app/posts/vampire/</link>
+      <link>http://localhost:1313/posts/vampire/</link>
       <pubDate>Fri, 20 Oct 2023 15:02:39 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/vampire/</guid>
+      <guid>http://localhost:1313/posts/vampire/</guid>
       <description>&lt;p&gt;10月後半です。秋も深まり芸術鑑賞のひとときを過ごしたくなるかと思いきや、毎日だいぶ暑いです。夏の亡霊がそのへんを彷徨ってるぜ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Snow Shark Ancient Snow Beast</title>
-      <link>https://wthnote.netlify.app/posts/snows/</link>
+      <link>http://localhost:1313/posts/snows/</link>
       <pubDate>Mon, 25 Sep 2023 11:38:06 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/snows/</guid>
+      <guid>http://localhost:1313/posts/snows/</guid>
       <description>&lt;p&gt;いつのまにか九月も終盤に差し掛かっていますね。気温も下がり、いよいよ芸術（&lt;strong&gt;サメ&lt;/strong&gt;）の秋と言ったところです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ouija Shark 2&#34;</title>
-      <link>https://wthnote.netlify.app/posts/os2/</link>
+      <link>http://localhost:1313/posts/os2/</link>
       <pubDate>Mon, 11 Sep 2023 15:11:55 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/os2/</guid>
+      <guid>http://localhost:1313/posts/os2/</guid>
       <description>&lt;p&gt;２を見る機会に恵まれた今日この頃です。秋ですね。実はこの映画を見てから暫く日が経ってしまったので、色々忘れてます。すでに……。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Land Shark</title>
-      <link>https://wthnote.netlify.app/posts/ls/</link>
+      <link>http://localhost:1313/posts/ls/</link>
       <pubDate>Wed, 06 Sep 2023 08:41:41 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/ls/</guid>
+      <guid>http://localhost:1313/posts/ls/</guid>
       <description>&lt;p&gt;シャーケンシュタインに続きランドシャークを見ました。邦題サブタイトル「丘ジョーズの逆襲」とのことで、丘ジョーズも意味不明だし何が逆襲なのかもまったくわかりませんが、元気いっぱいでよろしい！という感じです（&lt;strong&gt;もう疲れてる&lt;/strong&gt;）。&lt;/p&gt;</description>
     </item>
     <item>
       <title>青い春</title>
-      <link>https://wthnote.netlify.app/posts/aoiharu/</link>
+      <link>http://localhost:1313/posts/aoiharu/</link>
       <pubDate>Mon, 04 Sep 2023 12:46:54 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/aoiharu/</guid>
+      <guid>http://localhost:1313/posts/aoiharu/</guid>
       <description>&lt;p&gt;前々から気になってた映画を！ついに見た！！（そんなことばっかり言ってるな？）&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Hunted(1995)&#34;</title>
-      <link>https://wthnote.netlify.app/posts/th/</link>
+      <link>http://localhost:1313/posts/th/</link>
       <pubDate>Thu, 31 Aug 2023 13:58:21 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/th/</guid>
+      <guid>http://localhost:1313/posts/th/</guid>
       <description>&lt;p&gt;ヘンテコジャパンを取り扱うニンジャサムライムービーは数あれど、舞台が&lt;strong&gt;名古屋&lt;/strong&gt;でちゃんと現地ロケしてる映画ってこの映画くらいじゃないだろうか。ジャパン＝トーキョーの価値観を脱したヘンテコ名古屋ムービーが1995年に爆誕していたとは知らなかったよ。&lt;/p&gt;</description>
     </item>
     <item>
       <title>エドワード・ヤンの恋愛時代（4Kレストア版&#34;</title>
-      <link>https://wthnote.netlify.app/posts/ds/</link>
+      <link>http://localhost:1313/posts/ds/</link>
       <pubDate>Wed, 30 Aug 2023 11:32:36 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/ds/</guid>
+      <guid>http://localhost:1313/posts/ds/</guid>
       <description>&lt;p&gt;先日見てきました。ずっと見たいなあと思いながら機会がなかった作品なので劇場で見れて嬉しい。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sharkenstein&#34;</title>
-      <link>https://wthnote.netlify.app/posts/sharkenstein/</link>
+      <link>http://localhost:1313/posts/sharkenstein/</link>
       <pubDate>Tue, 29 Aug 2023 15:50:19 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/sharkenstein/</guid>
+      <guid>http://localhost:1313/posts/sharkenstein/</guid>
       <description>&lt;p&gt;もうあらすじだけで&lt;strong&gt;具合が悪い&lt;/strong&gt;わけですが、ちゃんと最後まで見ました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ouija Shark&#34;</title>
-      <link>https://wthnote.netlify.app/posts/os/</link>
+      <link>http://localhost:1313/posts/os/</link>
       <pubDate>Mon, 28 Aug 2023 14:15:01 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/os/</guid>
+      <guid>http://localhost:1313/posts/os/</guid>
       <description>&lt;p&gt;ずっと気になっていた作品を遂に見ました！&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mission Impossible – Dead Reckoning Part One&#34;</title>
-      <link>https://wthnote.netlify.app/posts/dr/</link>
+      <link>http://localhost:1313/posts/dr/</link>
       <pubDate>Sun, 27 Aug 2023 08:56:37 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/dr/</guid>
+      <guid>http://localhost:1313/posts/dr/</guid>
       <description>&lt;p&gt;この記事を書いている現在で三回観に行ってきたのですが、あらゆるところで騒ぎすぎて&lt;strong&gt;もうブログに書かなくてもいいや&lt;/strong&gt;と思ったけどやっぱり書いておきます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>恋する惑星（4Kレストア版）</title>
-      <link>https://wthnote.netlify.app/posts/230825/</link>
+      <link>http://localhost:1313/posts/230825/</link>
       <pubDate>Fri, 25 Aug 2023 14:22:39 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/230825/</guid>
+      <guid>http://localhost:1313/posts/230825/</guid>
       <description>&lt;p&gt;なんとなく映画は見ているんだけどブログに書く体力が全くなく、でもそうこうしているうちに忘れちゃうからやっぱり書いておこうの精神でパソコンに向かっています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>OLD JOY</title>
-      <link>https://wthnote.netlify.app/posts/230325/</link>
+      <link>http://localhost:1313/posts/230325/</link>
       <pubDate>Sat, 25 Mar 2023 07:24:41 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/230325/</guid>
+      <guid>http://localhost:1313/posts/230325/</guid>
       <description>&lt;p&gt;なんとなく思い立って「OLD JOY」を観た。掠れた歌みたいにいい映画だった。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Everything Everywhere All at Once</title>
-      <link>https://wthnote.netlify.app/posts/230317/</link>
+      <link>http://localhost:1313/posts/230317/</link>
       <pubDate>Fri, 17 Mar 2023 16:35:23 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/230317/</guid>
+      <guid>http://localhost:1313/posts/230317/</guid>
       <description>&lt;p&gt;観よう観ようと思いながら後回しになっていたのですが、Twitterでも勧めて頂いたので元気よく観に行ってきました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Banshees of Inisherin</title>
-      <link>https://wthnote.netlify.app/posts/230314/</link>
+      <link>http://localhost:1313/posts/230314/</link>
       <pubDate>Tue, 14 Mar 2023 19:48:06 +0900</pubDate>
-      <guid>https://wthnote.netlify.app/posts/230314/</guid>
+      <guid>http://localhost:1313/posts/230314/</guid>
       <description>&lt;p&gt;先日「イニシェリン島の精霊」を見てきた。端的にいうと「おじさんの意地の張り合い」映画だった。そんな地味なテーマで114分も持つのかと思いきや全然持つからすごかった。&lt;/p&gt;</description>
     </item>
   </channel>
