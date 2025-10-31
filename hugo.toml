@@ -1,0 +1,18 @@
+theme = "dream"
+baseURL = 'https://example.org/'
+defaultContentLanguage = "en"
+languageCode = "en"
+title = 'WTH'
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+
+
+[params]
+author = "ftdr"
+headerTitle = "WTH"
+avatar = "img/avatar.png"
