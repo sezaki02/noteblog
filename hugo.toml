@@ -17,3 +17,4 @@ title = 'WTH'
   author = "ftdr"
   headerTitle = "WTH"
   avatar = "img/avatar.png"
+  defaultOGImage = "/img/cover_all.png"
